@@ -8,4 +8,4 @@ I'll use the flask framework for the website, which will have the following feat
 
 <img width="698" alt="Screen Shot 2023-04-02 at 5 58 08 PM" src="https://user-images.githubusercontent.com/124767674/229383629-d0002efa-c04f-495e-b39d-1732753d98fd.png">
 
-<img width="456" alt="Screen Shot 2023-04-02 at 5 58 17 PM" src="https://user-images.githubusercontent.com/124767674/229383633-7a4578ca-fd55-42a1-96ce-88ea206a5f1a.png">
+<img width="698" alt="Screen Shot 2023-04-02 at 5 58 17 PM" src="https://user-images.githubusercontent.com/124767674/229383633-7a4578ca-fd55-42a1-96ce-88ea206a5f1a.png">
