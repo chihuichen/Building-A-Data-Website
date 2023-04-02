@@ -6,4 +6,6 @@ I'll use the flask framework for the website, which will have the following feat
 (3) a link to a donation page that is optimized via A/B testing, and \
 (4) a subscribe button that only accepts valid email address formats.
 
-[34.71.189.155.pdf](https://github.com/chihuichen/Building-A-Data-Website/files/11133529/34.71.189.155.pdf)
+<img width="698" alt="Screen Shot 2023-04-02 at 5 58 08 PM" src="https://user-images.githubusercontent.com/124767674/229383629-d0002efa-c04f-495e-b39d-1732753d98fd.png">
+
+<img width="456" alt="Screen Shot 2023-04-02 at 5 58 17 PM" src="https://user-images.githubusercontent.com/124767674/229383633-7a4578ca-fd55-42a1-96ce-88ea206a5f1a.png">
