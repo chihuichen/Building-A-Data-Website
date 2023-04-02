@@ -1,0 +1,949 @@
+,price,brand,model,year,title_status,mileage,color,vin,lot,state,country,condition
+0,6300,toyota,cruiser,2008,clean vehicle,274117.0,black,jtezu11f88k007763,159348797,new jersey, usa,10 days left
+1,2899,ford,se,2011,clean vehicle,190552.0,silver,2fmdk3gc4bbb02217,166951262,tennessee, usa,6 days left
+2,5350,dodge,mpv,2018,clean vehicle,39590.0,silver,3c4pdcgg5jt346413,167655728,georgia, usa,2 days left
+3,25000,ford,door,2014,clean vehicle,64146.0,blue,1ftfw1et4efc23745,167753855,virginia, usa,22 hours left
+4,27700,chevrolet,1500,2018,clean vehicle,6654.0,red,3gcpcrec2jg473991,167763266,florida, usa,22 hours left
+5,5700,dodge,mpv,2018,clean vehicle,45561.0,white,2c4rdgeg9jr237989,167655771,texas, usa,2 days left
+6,7300,chevrolet,pk,2010,clean vehicle,149050.0,black,1gcsksea1az121133,167753872,georgia, usa,22 hours left
+7,13350,gmc,door,2017,clean vehicle,23525.0,gray,1gks2gkc3hr326762,167692494,california, usa,20 hours left
+8,14600,chevrolet,malibu,2018,clean vehicle,9371.0,silver,1g1zd5st5jf191860,167763267,florida, usa,22 hours left
+9,5250,ford,mpv,2017,clean vehicle,63418.0,black,2fmpk3j92hbc12542,167656121,texas, usa,2 days left
+10,10400,dodge,coupe,2009,clean vehicle,107856.0,orange,2b3lj54t49h509675,167753874,georgia, usa,22 hours left
+11,12920,gmc,mpv,2017,clean vehicle,39650.0,white,1gks2bkc6hr136280,167692496,california, usa,20 hours left
+12,31900,chevrolet,1500,2018,clean vehicle,22909.0,black,3gcukrec0jg176059,167763273,tennessee, usa,22 hours left
+13,5430,chrysler,wagon,2017,clean vehicle,138650.0,gray,2c4rc1cg5hr616095,167656123,texas, usa,2 days left
+14,20700,ford,door,2013,clean vehicle,100757.0,black,1ftfw1et7dfa47790,167753916,virginia, usa,22 hours left
+15,12710,gmc,door,2017,clean vehicle,25747.0,white,1gks2gkc6hr328389,167692497,california, usa,20 hours left
+16,5200,kia,forte,2018,clean vehicle,46194.0,blue,3kpfk4a77je198723,167801757,north carolina, usa,2 days left
+17,16500,buick,encore,2018,clean vehicle,20002.0,red,kl4cj1sb6jb688844,167763275,tennessee, usa,22 hours left
+18,5210,ford,mpv,2017,clean vehicle,35714.0,white,2fmpk3j95hbb73607,167656124,texas, usa,2 days left
+19,38100,ford,door,2013,clean vehicle,54380.0,gray,1ft8w3dt5deb68569,167753923,virginia, usa,22 hours left
+20,12520,gmc,door,2017,clean vehicle,30114.0,white,1gks2gkcxhr328380,167692498,california, usa,20 hours left
+21,7300,kia,forte,2018,clean vehicle,38823.0,black,3kpfl4a79je272611,167801773,north carolina, usa,2 days left
+22,15000,chevrolet,door,2015,clean vehicle,61578.0,black,2gnflhe33f6214023,167763280,ohio, usa,2 days left
+23,6180,ford,mpv,2017,clean vehicle,46010.0,blue,2fmpk3j84hbc09276,167656125,texas, usa,2 days left
+24,20800,ford,door,2013,clean vehicle,105510.0,silver,1ftfw1efxdfa01008,167753937,virginia, usa,22 hours left
+25,11900,gmc,door,2017,clean vehicle,28040.0,silver,1gks2gkc2hr327918,167692503,california, usa,20 hours left
+26,21500,kia,sorento,2020,clean vehicle,11451.0,blue,5xypg4a59lg616029,167801828,north carolina, usa,2 days left
+27,12000,buick,door,2014,clean vehicle,31039.0,brown,1g4ps5sk1e4188639,167763299,ohio, usa,2 days left
+28,4190,ford,doors,2017,clean vehicle,44174.0,white,1fadp5auxhl109013,167656126,texas, usa,2 days left
+29,13000,ford,chassis,2008,clean vehicle,93698.0,white,1fdwf37r28eb95687,167754098,tennessee, usa,22 hours left
+30,12710,gmc,door,2017,clean vehicle,26364.0,silver,1gks2gkc6hr326335,167692504,california, usa,20 hours left
+31,18500,infiniti,q70,2016,clean vehicle,71967.0,gray,jn1by1ar7gm271292,167801920,new york, usa,19 hours left
+32,29800,chevrolet,camaro,1973,clean vehicle,46226.0,red,1q87t3n166389,167763370,pennsylvania, usa,22 hours left
+33,5330,ford,mpv,2017,clean vehicle,37792.0,no_color,2fmpk3j9xhbb56401,167656127,texas, usa,2 days left
+34,13000,ford,convertible,2003,clean vehicle,58817.0,gray,1fahp60a63y107799,167754173,virginia, usa,22 hours left
+35,11900,gmc,door,2017,clean vehicle,27965.0,black,1gks2gkc2hr328793,167692507,california, usa,20 hours left
+36,16600,mercedes-benz,vans,2016,clean vehicle,110907.0,white,8btpe7dd4ge127040,167802259,new york, usa,19 hours left
+37,19200,chevrolet,1500,2018,clean vehicle,2430.0,white,1gcncneh5jz302471,167763391,tennessee, usa,22 hours left
+38,7320,ford,mpv,2017,clean vehicle,32366.0,gold,2fmpk4k96hbb16692,167656128,texas, usa,2 days left
+39,7000,ford,pk,2003,clean vehicle,176567.0,white,1ftnx20p73ed69682,167754187,tennessee, usa,22 hours left
+40,12710,gmc,door,2017,clean vehicle,30049.0,white,1gks2gkc6hr325461,167692508,california, usa,20 hours left
+41,16600,mercedes-benz,vans,2016,clean vehicle,97983.0,white,wd4pe7dd1gp253504,167802269,new york, usa,19 hours left
+42,30500,chevrolet,1500,2018,clean vehicle,30442.0,red,3gcukrec4jg204915,167763393,tennessee, usa,22 hours left
+43,6330,ford,mpv,2017,clean vehicle,38123.0,red,2fmpk3j85hbb79415,167656129,texas, usa,2 days left
+44,55000,ford,srw,2017,clean vehicle,15273.0,black,1ft7w3bt5hee88155,167754310,pennsylvania, usa,3 days left
+45,12520,gmc,door,2017,clean vehicle,28972.0,black,1gks2gkcxhr324555,167692509,california, usa,20 hours left
+46,16200,jeep,compass,2019,clean vehicle,30061.0,red,3c4njccb3kt676336,167802530,north carolina, usa,2 days left
+47,19000,chevrolet,malibu,2017,clean vehicle,18414.0,white,1g1zh5sx9hf118136,167763675,tennessee, usa,22 hours left
+48,5580,dodge,mpv,2017,clean vehicle,46829.0,gray,3c4pddeg7ht595704,167656130,texas, usa,2 days left
+49,54000,ford,srw,2017,clean vehicle,26241.0,black,1ft7w3bt0hef02785,167754311,pennsylvania, usa,3 days left
+50,12710,gmc,mpv,2017,clean vehicle,39886.0,red,1gks2bkc7hr133811,167692513,california, usa,20 hours left
+51,16000,jeep,compass,2019,clean vehicle,31594.0,silver,3c4njccb0kt676343,167802531,north carolina, usa,2 days left
+52,27000,buick,enclave,2017,clean vehicle,32107.0,no_color,5gakrckdxhj113512,167763677,tennessee, usa,22 hours left
+53,7760,ford,mpv,2017,clean vehicle,44794.0,gray,2fmpk4j87hbb21750,167656131,texas, usa,2 days left
+54,19600,chrysler,300,2019,clean vehicle,42648.0,gray,2c3ccabgxkh559658,167754404,south carolina, usa,22 hours left
+55,12920,gmc,mpv,2017,clean vehicle,39165.0,silver,1gks2bkc6hr134450,167692514,california, usa,20 hours left
+56,20000,jeep,cherokee,2019,clean vehicle,38355.0,charcoal,1c4pjmbx6kd298806,167802532,north carolina, usa,2 days left
+57,18100,buick,door,2017,clean vehicle,46766.0,silver,1g4zp5ss8hu149142,167763681,florida, usa,2 days left
+58,23000,chrysler,pacifica,2020,clean vehicle,2473.0,white,2c4rc1fg5lr143335,167656205,ohio, usa,2 days left
+59,18500,chrysler,300,2019,clean vehicle,38586.0,gray,2c3ccaeg5kh585628,167754410,south carolina, usa,22 hours left
+60,13490,gmc,door,2017,clean vehicle,27842.0,white,1gks2gkc0hr323625,167692515,california, usa,20 hours left
+61,20700,jeep,cherokee,2019,clean vehicle,31156.0,white,1c4pjmbx2kd360704,167802533,north carolina, usa,2 days left
+62,17800,chevrolet,door,2017,clean vehicle,52435.0,black,1g1fb1rsxh0185712,167763683,florida, usa,22 hours left
+63,6650,ford,door,2017,clean vehicle,29942.0,black,1fmcu0gd8huc93883,167656254,texas, usa,2 days left
+64,29100,chrysler,pacifica,2019,clean vehicle,25281.0,red,2c4rc1gg3kr730663,167754412,south carolina, usa,22 hours left
+65,12710,gmc,door,2017,clean vehicle,32504.0,silver,1gks2gkc6hr327937,167692524,california, usa,20 hours left
+66,21100,jeep,cherokee,2019,clean vehicle,28649.0,silver,1c4pjmbx6kd298174,167802534,north carolina, usa,2 days left
+67,18600,chevrolet,door,2017,clean vehicle,35200.0,white,1g1fb1rsxh0104806,167763684,florida, usa,22 hours left
+68,4340,ford,door,2017,clean vehicle,25602.0,silver,1fmcu0gd7huc86259,167656255,texas, usa,2 days left
+69,19300,chrysler,300,2019,clean vehicle,34801.0,gray,2c3ccakg4kh594972,167754413,south carolina, usa,22 hours left
+70,12780,gmc,door,2017,clean vehicle,31009.0,black,1gks2gkc7hr321306,167692525,california, usa,20 hours left
+71,15800,jeep,compass,2019,clean vehicle,35595.0,charcoal,3c4njccb4kt662767,167802541,north carolina, usa,2 days left
+72,29400,bmw,x3,2017,clean vehicle,23765.0,black,5uxwx7c3xh0u44145,167763685,tennessee, usa,22 hours left
+73,4430,ford,door,2017,clean vehicle,31792.0,black,1fmcu0gd9huc37922,167656256,texas, usa,2 days left
+74,19400,chrysler,300,2019,clean vehicle,33135.0,gray,2c3ccakg6kh578112,167754417,south carolina, usa,22 hours left
+75,12520,gmc,door,2017,clean vehicle,30636.0,red,1gks2gkcxhr323969,167692526,california, usa,20 hours left
+76,15900,jeep,compass,2019,clean vehicle,34502.0,red,3c4njccb7kt660088,167802543,north carolina, usa,2 days left
+77,26400,buick,door,2017,clean vehicle,25434.0,white,5gakvckd2hj308564,167763690,florida, usa,22 hours left
+78,4140,ford,door,2017,clean vehicle,36732.0,black,1fmcu0gd5hud08310,167656257,texas, usa,2 days left
+79,18300,chrysler,300,2019,clean vehicle,41792.0,gray,2c3ccaeg0kh555632,167754420,south carolina, usa,22 hours left
+80,12520,gmc,door,2017,clean vehicle,31992.0,black,1gks2gkcxhr328718,167692527,california, usa,20 hours left
+81,17900,jeep,compass,2019,clean vehicle,32501.0,red,3c4njddb7kt682015,167802544,north carolina, usa,2 days left
+82,18300,chevrolet,camaro,2017,clean vehicle,28395.0,black,1g1fb3dx5h0143964,167763691,florida, usa,22 hours left
+83,4640,ford,door,2017,clean vehicle,36139.0,blue,1fmcu0g95huc13712,167656258,texas, usa,2 days left
+84,24000,ford,door,2016,clean vehicle,84413.0,black,1ftfw1ef1gfb13670,167754527,pennsylvania, usa,3 days left
+85,13200,gmc,door,2017,clean vehicle,33457.0,white,1gks2gkc5hr326410,167692528,california, usa,20 hours left
+86,18000,jeep,compass,2019,clean vehicle,29245.0,gray,3c4njddb0kt686052,167802545,north carolina, usa,2 days left
+87,14900,chevrolet,equinox,2017,clean vehicle,12783.0,silver,2gnalcek7h1548351,167763692,florida, usa,22 hours left
+88,4140,ford,door,2017,clean vehicle,17617.0,white,1fmcu0gd5huc78080,167656259,texas, usa,2 days left
+89,11500,ford,door,2016,clean vehicle,36855.0,black,1fmcu9gx9gua57286,167754531,pennsylvania, usa,2 days left
+90,9110,ford,door,2017,clean vehicle,110316.0,white,1ftfw1ef5hkc50264,167656356,texas, usa,2 days left
+91,7350,chrysler,door,2015,clean vehicle,88227.0,black,1c3cccab7fn613884,167755375,pennsylvania, usa,2 days left
+92,24500,bmw,door,2017,clean vehicle,17626.0,gray,wba4f9c51hg439932,167765094,michigan, usa,2 days left
+93,9300,ford,door,2017,clean vehicle,120353.0,white,1ftfw1ef4hkc50286,167656357,texas, usa,2 days left
+94,39800,dodge,challenger,2015,clean vehicle,3641.0,white,2c3cdzc95fh757310,167755377,pennsylvania, usa,2 days left
+95,53500,bmw,m,2017,clean vehicle,29355.0,blue,5ymkt6c37h0x20696,167765095,michigan, usa,2 days left
+96,15110,ford,door,2017,clean vehicle,39333.0,black,1ft7w2bt7hec41164,167656358,texas, usa,2 days left
+97,34000,ford,door,2015,clean vehicle,42930.0,white,1ft8w3b61fec52078,167755448,pennsylvania, usa,2 days left
+98,26502,chevrolet,colorado,2017,clean vehicle,24993.0,black,1gcgtcen4h1158648,167765108,michigan, usa,20 hours left
+99,5990,ford,mpv,2017,clean vehicle,44929.0,black,1fm5k7b86hga87008,167656359,texas, usa,2 days left
+100,13600,ford,focus,2018,clean vehicle,16971.0,black,1fadp3m26jl307477,167755490,south carolina, usa,21 hours left
+101,23605,cadillac,door,2017,clean vehicle,35598.0,gray,1gyknbrsxhz114969,167765109,michigan, usa,2 days left
+102,10780,ford,mpv,2017,clean vehicle,40455.0,white,1fm5k8ht0hga07252,167656360,texas, usa,2 days left
+103,13800,ford,focus,2018,clean vehicle,23164.0,white,1fadp3j2xjl279400,167755491,south carolina, usa,21 hours left
+104,25201,cadillac,door,2017,clean vehicle,19011.0,no_color,1gyknbrs8hz257399,167765111,michigan, usa,2 days left
+105,7070,ford,mpv,2017,clean vehicle,45191.0,white,1fm5k7d82hgb39148,167656361,texas, usa,2 days left
+106,8700,ford,focus,2018,clean vehicle,21405.0,white,1fadp3k23jl219764,167755494,south carolina, usa,21 hours left
+107,18003,chevrolet,malibu,2017,clean vehicle,19117.0,no_color,1g1zh5sx7hf141060,167765112,michigan, usa,17 hours left
+108,8530,ford,door,2017,clean vehicle,42104.0,black,1fm5k7f80hga03159,167656362,texas, usa,2 days left
+109,23100,dodge,durango,2018,clean vehicle,49496.0,white,1c4rdjdg2jc329601,167755496,south carolina, usa,21 hours left
+110,24500,cadillac,door,2017,clean vehicle,32418.0,white,1gykndrs1hz125239,167765114,michigan, usa,2 days left
+111,7000,ford,mpv,2017,clean vehicle,29882.0,white,1fm5k7d84hgc31359,167656363,texas, usa,2 days left
+112,17000,ford,escape,2018,clean vehicle,34819.0,gold,1fmcu9hd6juc54783,167755501,south carolina, usa,21 hours left
+113,34002,chevrolet,1500,2017,clean vehicle,31923.0,white,3gcuktej3hg475034,167765115,michigan, usa,2 days left
+114,6980,ford,mpv,2017,clean vehicle,29168.0,gray,1fm5k7d8xhga68751,167656364,texas, usa,2 days left
+115,25000,dodge,charger,2018,clean vehicle,28307.0,silver,2c3cdxjg6jh224431,167755814,michigan, usa,21 hours left
+116,20802,chevrolet,colorado,2017,clean vehicle,33791.0,turquoise,1gcgtben3h1180134,167765116,michigan, usa,2 days left
+117,9200,ford,door,2017,clean vehicle,21770.0,black,1ftew1ep8hfa10123,167656365,texas, usa,2 days left
+118,26500,chrysler,pacifica,2017,clean vehicle,18375.0,gray,2c4rc1eg2hr669530,167755839,michigan, usa,21 hours left
+119,24802,chevrolet,colorado,2017,clean vehicle,14158.0,gray,1gcgtcen9h1202076,167765119,michigan, usa,2 days left
+120,7070,ford,mpv,2017,clean vehicle,30318.0,black,1fm5k7d82hgb21314,167656366,texas, usa,2 days left
+121,28500,ford,door,2017,clean vehicle,48086.0,red,1ftew1ep2hkd15978,167755890,south carolina, usa,21 hours left
+122,47500,cadillac,door,2017,clean vehicle,26562.0,black,1gys4ckj7hr359884,167765120,michigan, usa,2 days left
+123,23500,ford,explorer,2017,clean vehicle,57611.0,black,1fm5k8f80hgc67231,167755891,south carolina, usa,21 hours left
+124,23505,chevrolet,colorado,2017,clean vehicle,47357.0,black,1gcptce16h1176629,167765121,michigan, usa,2 hours left
+125,10940,ford,door,2017,clean vehicle,84916.0,white,1ftew1ef1hke25038,167656368,texas, usa,2 days left
+126,32100,ford,f-150,2017,clean vehicle,24521.0,gray,1ftfw1eg1hfb38806,167755893,south carolina, usa,21 hours left
+127,53000,chevrolet,3500,2018,clean vehicle,16105.0,black,1gc4k1ey0jf149152,167765123,washington, usa,21 hours left
+128,6830,ford,mpv,2017,clean vehicle,35888.0,gold,1fm5k7dh9hgb05630,167656369,texas, usa,2 days left
+129,11900,dodge,caravan,2017,clean vehicle,59537.0,gray,2c4rdgcg3hr864989,167755906,south carolina, usa,21 hours left
+130,26414,chevrolet,1500,2017,clean vehicle,55222.0,black,3gcukrec3hg429109,167765140,michigan, usa,20 hours left
+131,4160,dodge,mpv,2018,clean vehicle,32870.0,gray,3c4pdcab8jt166940,167656464,florida, usa,17 hours left
+132,19405,chevrolet,door,2017,clean vehicle,39687.0,silver,1gnkvgkd0hj145877,167765141,michigan, usa,3 hours left
+133,5690,dodge,mpv,2018,clean vehicle,47085.0,silver,2c4rdgeg8jr337145,167656466,florida, usa,17 hours left
+134,25900,chrysler,van,2017,clean vehicle,32224.0,silver,2c4rc1gg4hr635019,167756044,south carolina, usa,21 hours left
+135,24005,chevrolet,1500,2017,clean vehicle,51293.0,beige,1gcukrecxhf153500,167765146,michigan, usa,20 hours left
+136,5090,dodge,mpv,2018,clean vehicle,42989.0,gray,2c4rdgcg2jr218218,167656467,florida, usa,17 hours left
+137,19500,chrysler,300,2017,clean vehicle,31311.0,gray,2c3ccabg5hh538726,167756093,arizona, usa,34 minutes
+138,32012,chevrolet,1500,2017,clean vehicle,46091.0,white,3gcuksej6hg353147,167765148,michigan, usa,2 days left
+139,6800,dodge,dart,2016,clean vehicle,49033.0,black,1c3cdffh0gd823262,167756148,michigan, usa,2 days left
+140,4260,dodge,mpv,2018,clean vehicle,33957.0,gray,3c4pdcabxjt311007,167656471,florida, usa,16 hours left
+141,0,dodge,van,2008,salvage insurance,177948.0,orange,2d8hn44h88r669549,167756157,utah, usa,2 days left
+142,31802,chevrolet,2500,2017,clean vehicle,19845.0,silver,1gc1kveg3hf189737,167765152,michigan, usa,20 hours left
+143,7210,dodge,doors,2018,clean vehicle,38910.0,black,2c3cdxct1jh233225,167656472,florida, usa,16 hours left
+144,0,dodge,door,2014,salvage insurance,123660.0,silver,1c3cdzab0en111068,167756167,utah, usa,2 days left
+145,28402,chevrolet,1500,2017,clean vehicle,31234.0,black,3gcukrec4hg196549,167765157,michigan, usa,2 days left
+146,6800,dodge,doors,2018,clean vehicle,36767.0,gray,2c3cdxhgxjh125388,167656473,florida, usa,16 hours left
+147,33300,cadillac,esv,2015,clean vehicle,57932.0,gray,1gys4tkj0fr538846,167765183,washington, usa,21 hours left
+148,10780,dodge,mpv,2018,clean vehicle,19420.0,white,1c4sdjct1jc174166,167656474,florida, usa,16 hours left
+149,6700,ford,cutaway,2014,clean vehicle,204155.0,beige,1fdfe4fs7eda23699,167756194,pennsylvania, usa,3 days left
+150,20000,chevrolet,1500,2016,clean vehicle,93493.0,white,3gcuknec9gg342967,167765203,washington, usa,21 hours left
+151,6440,chrysler,doors,2018,clean vehicle,20942.0,gray,2c3ccakg8jh168457,167656475,florida, usa,17 hours left
+152,19900,ford,door,2016,clean vehicle,86826.0,gray,1fm5k8f8xggc51519,167756205,south carolina, usa,21 hours left
+153,37000,chevrolet,door,2015,clean vehicle,45787.0,white,1gc1kwegxff145382,167765217,washington, usa,21 hours left
+154,4040,dodge,mpv,2018,clean vehicle,50765.0,red,3c4pdcab6jt273002,167656476,florida, usa,16 hours left
+155,22300,ford,explorer,2016,clean vehicle,62774.0,black,1fm5k8fh9ggc37790,167756208,south carolina, usa,21 hours left
+156,31200,chevrolet,door,2011,clean vehicle,76326.0,gray,1gc1kxc86bf208814,167765320,washington, usa,21 hours left
+157,4290,dodge,mpv,2018,clean vehicle,39029.0,white,3c4pdcab0jt474412,167656477,florida, usa,16 hours left
+158,22800,ford,el,2016,clean vehicle,72885.0,silver,1fmjk1ht3gef52975,167756210,south carolina, usa,21 hours left
+159,19002,cadillac,door,2016,clean vehicle,46467.0,white,1g6ah1rx1g0193887,167765761,michigan, usa,20 hours left
+160,4160,dodge,mpv,2018,clean vehicle,6743.0,gray,3c4pdcab8jt384019,167656478,florida, usa,16 hours left
+161,18500,ford,edge,2016,clean vehicle,33514.0,white,2fmpk3j98gbb59781,167756214,south carolina, usa,21 hours left
+162,39000,bmw,series,2016,clean vehicle,39917.0,blue,wba7f2c57gg421020,167765766,michigan, usa,2 days left
+163,6060,dodge,doors,2018,clean vehicle,32504.0,black,3c4pddgg1jt523058,167656479,florida, usa,18 hours left
+164,28800,ford,door,2016,clean vehicle,77638.0,white,1ftew1ep1gfc64335,167756219,south carolina, usa,21 hours left
+165,40000,bmw,series,2016,clean vehicle,31727.0,gray,wba7f2c55gg415264,167765767,michigan, usa,2 days left
+166,6140,dodge,doors,2018,clean vehicle,52966.0,silver,2c3cdxbg0jh187083,167656480,florida, usa,16 hours left
+167,21000,ford,flex,2016,clean vehicle,24157.0,gray,2fmhk6c89gba05297,167756222,south carolina, usa,21 hours left
+168,20105,buick,door,2016,clean vehicle,51393.0,beige,5gakvbkd8gj196085,167765770,michigan, usa,20 hours left
+169,6760,dodge,doors,2018,clean vehicle,35461.0,white,2c3cdzag7jh321665,167656483,florida, usa,16 hours left
+170,25800,ford,door,2014,clean vehicle,47055.0,brown,1ft7x2b62eea29551,167756277,pennsylvania, usa,1 days left
+171,39000,bmw,series,2016,clean vehicle,33110.0,black,wba7f2c57gg419607,167765776,michigan, usa,2 days left
+172,5470,dodge,mpv,2018,clean vehicle,39721.0,black,3c4pdcgg9jt216280,167656495,florida, usa,16 hours left
+173,14600,ford,door,2014,clean vehicle,75785.0,black,1fm5k8f81egb23411,167756284,pennsylvania, usa,21 hours left
+174,24502,chevrolet,1500,2016,clean vehicle,33624.0,black,3gcuknec6gg150809,167765812,michigan, usa,20 hours left
+175,15110,ford,door,2017,clean vehicle,42289.0,white,1ft7w2bt7hec67263,167656516,texas, usa,2 days left
+176,7900,ford,door,2014,clean vehicle,79422.0,white,1fmcu0g9xeud52262,167756290,new york, usa,21 hours left
+177,27305,chevrolet,door,2016,clean vehicle,28844.0,blue,3gcukrec5gg383569,167765813,michigan, usa,3 hours left
+178,15290,ford,door,2017,clean vehicle,66582.0,white,1ft7w2bt0hef21363,167656517,texas, usa,2 days left
+179,26500,ford,door,2015,clean vehicle,61436.0,silver,1ftew1cf3fke12825,167756321,south carolina, usa,21 hours left
+180,25502,chevrolet,door,2016,clean vehicle,58303.0,silver,3gcukrec0gg380000,167765816,michigan, usa,20 hours left
+181,7320,ford,mpv,2017,clean vehicle,55618.0,white,1fmzk1cmxhkb51025,167656518,texas, usa,2 days left
+182,3800,chevrolet,van,2009,clean vehicle,261648.0,white,1gbhg396191112177,167756420,michigan, usa,2 days left
+183,24502,chevrolet,door,2016,clean vehicle,33045.0,white,3gcukrec4gg223800,167765817,michigan, usa,20 hours left
+184,4140,ford,door,2017,clean vehicle,40747.0,white,3fa6p0h73hr358945,167656519,texas, usa,2 days left
+185,1400,dodge,pk,2002,clean vehicle,185460.0,black,1b7hg38n62s587845,167756423,michigan, usa,2 days left
+186,18402,cadillac,srx,2016,clean vehicle,26667.0,gray,3gyfnae36gs538333,167765819,michigan, usa,2 days left
+187,4160,ford,door,2017,clean vehicle,37176.0,white,3fa6p0hd3hr199785,167656520,texas, usa,2 days left
+188,175,chrysler,door,2000,salvage insurance,231240.0,red,2c3hd46r3yh208325,167756464,north carolina, usa,3 days left
+189,24503,chevrolet,colorado,2016,clean vehicle,18006.0,brown,1gchtde32g1339478,167765821,michigan, usa,20 hours left
+190,15840,ford,door,2017,clean vehicle,72445.0,white,1ft7w2bt8hec67434,167656521,texas, usa,2 days left
+191,20500,ford,door,2014,clean vehicle,123355.0,black,1ftfw1et9efb99877,167756547,south carolina, usa,21 hours left
+192,21003,chevrolet,1500,2016,clean vehicle,44116.0,silver,1gcvknec1gz396932,167765826,michigan, usa,32 minutes
+193,4200,ford,door,2017,clean vehicle,60219.0,red,3fa6p0hd7hr273550,167656522,texas, usa,2 days left
+194,17400,ford,door,2011,clean vehicle,135077.0,red,1ftfw1ef1bfa03548,167756635,georgia, usa,21 hours left
+195,32001,chevrolet,door,2016,clean vehicle,32058.0,black,3gcuktec5gg350066,167765832,michigan, usa,2 days left
+196,0,ford,mpv,2017,clean vehicle,76858.0,white,1fbax2cv0hkb32599,167656523,texas, usa,2 days left
+197,15700,ford,cab,2011,clean vehicle,309564.0,white,1fduf5gt8bea80212,167756640,south carolina, usa,21 hours left
+198,31009,chevrolet,door,2016,clean vehicle,33928.0,white,3gcuksec3gg369662,167765835,michigan, usa,2 days left
+199,3740,ford,wagon,2017,clean vehicle,90618.0,white,nm0ls7e76h1312963,167656524,texas, usa,2 days left
+200,5000,dodge,pickup,2001,clean vehicle,109360.0,white,1b7hc16x01s213315,167756836,georgia, usa,21 hours left
+201,31002,chevrolet,door,2016,clean vehicle,71809.0,white,1gc1kve82gf207345,167765840,michigan, usa,20 hours left
+202,3160,ford,doors,2017,clean vehicle,31563.0,gray,1fadp3e24hl348263,167656526,texas, usa,2 days left
+203,8600,dodge,pickup,2005,clean vehicle,219823.0,gray,3d7ks28c15g771945,167756840,south carolina, usa,21 hours left
+204,6000,chevrolet,malibu,2018,clean vehicle,42090.0,gray,1g1zb5st8jf226848,167765944,texas, usa,21 hours left
+205,12990,ford,door,2017,clean vehicle,126523.0,white,1ft7w2b60hec03964,167656527,texas, usa,2 days left
+206,25,chevrolet,vehicl,2020,salvage insurance,7232.0,black,2gnaxkev6l6128374,167756877,kentucky, usa,3 days left
+207,13200,buick,encore,2017,clean vehicle,60171.0,black,kl4cjcsb1hb024411,167765959,texas, usa,21 hours left
+208,4410,ford,wagon,2017,clean vehicle,209915.0,white,nm0ls7e79h1312701,167656528,texas, usa,2 days left
+209,25,chrysler,door,2005,salvage insurance,151815.0,silver,2c3ja43r35h179032,167757193,massachusetts, usa,3 days left
+210,22500,chevrolet,camaro,2020,clean vehicle,13826.0,green,1g1fb1rx6l0109117,167765992,georgia, usa,3 days left
+211,7420,ford,mpv,2017,clean vehicle,55854.0,white,1fmzk1cm1hkb51026,167656529,texas, usa,2 days left
+212,13500,ford,door,2016,clean vehicle,45757.0,silver,1fatp8uhxg5296168,167757353,arizona, usa,20 hours left
+213,15500,chevrolet,trax,2020,clean vehicle,16545.0,white,3gncjlsb1ll142267,167765995,georgia, usa,3 days left
+214,3540,ford,door,2017,clean vehicle,112893.0,white,3fa6p0g73hr140652,167656530,texas, usa,2 days left
+215,17000,ford,door,2016,clean vehicle,126802.0,no_color,1ft7w2b60geb96643,167757879,florida, usa,2 hours left
+216,45500,chevrolet,tahoe,2020,clean vehicle,13303.0,white,1gnscbkc4lr164829,167765997,georgia, usa,3 days left
+217,4130,ford,door,2017,clean vehicle,34061.0,silver,3fa6p0hd8hr305132,167656531,texas, usa,2 days left
+218,15700,ford,door,2015,clean vehicle,70251.0,white,1ftew1cg0ffa89853,167757917,arizona, usa,14 hours left
+219,45500,chevrolet,tahoe,2020,clean vehicle,13679.0,gray,1gnscbkcxlr162857,167765999,georgia, usa,3 days left
+220,4130,ford,doors,2017,clean vehicle,42426.0,gray,3fa6p0lu4hr246569,167656532,texas, usa,2 days left
+221,15500,dodge,door,2012,clean vehicle,66452.0,black,1c6rd7lt4cs187334,167757926,pennsylvania, usa,2 days left
+222,16300,chevrolet,trax,2020,clean vehicle,18221.0,white,3gncjlsb4ll149763,167766003,georgia, usa,3 days left
+223,4530,ford,mpv,2017,clean vehicle,41455.0,white,1fmzk1cm7hkb51015,167656533,texas, usa,2 days left
+224,15600,dodge,door,2011,clean vehicle,35275.0,black,1d7rw3gp7bs614101,167758116,pennsylvania, usa,2 days left
+225,45500,chevrolet,tahoe,2020,clean vehicle,13885.0,white,1gnscbkc6lr159535,167766009,georgia, usa,3 days left
+226,4100,ford,door,2017,clean vehicle,38815.0,gray,3fa6p0hd2hr178393,167656535,texas, usa,2 days left
+227,18200,dodge,door,2011,clean vehicle,162281.0,white,3d73y4clxbg535425,167758122,pennsylvania, usa,2 days left
+228,10200,chevrolet,door,2013,clean vehicle,56479.0,black,2g1fc3d32d9188287,167766025,texas, usa,21 hours left
+229,4080,ford,doors,2017,clean vehicle,61027.0,black,3fa6p0luxhr231039,167656536,texas, usa,2 days left
+230,5700,ford,van,2014,clean vehicle,178703.0,white,1ftss3el7eda50076,167758159,florida, usa,2 hours left
+231,10200,chevrolet,3500,2014,clean vehicle,173469.0,white,1gc3czcg1ef176545,167766029,texas, usa,21 hours left
+232,5000,ford,door,2017,clean vehicle,37321.0,white,3fa6p0k93hr257687,167656538,texas, usa,2 days left
+233,1700,ford,door,2014,clean vehicle,112789.0,white,1fadp3f20el320177,167758222,florida, usa,2 hours left
+234,6200,bmw,door,2011,clean vehicle,80394.0,gray,wbaph7g58bnn05983,167766036,texas, usa,21 hours left
+235,3650,ford,door,2016,clean vehicle,68142.0,white,1fmcu0f78gub36672,167656726,texas, usa,2 days left
+236,10500,dodge,door,2014,clean vehicle,74203.0,white,2c3cdxct3eh230364,167758265,arizona, usa,1 days left
+237,43500,chevrolet,2500,2018,clean vehicle,57604.0,white,1gc1kwey3jf123662,167766138,georgia, usa,6 days left
+238,4610,dodge,van,2016,clean vehicle,87229.0,silver,2c4rdgbg2gr345223,167656729,texas, usa,2 days left
+239,3450,ford,door,2012,clean vehicle,90711.0,white,3fahp0ha5cr389742,167758419,florida, usa,1 days left
+240,38500,chevrolet,suburban,2018,clean vehicle,11135.0,silver,1gnschkc6jr269601,167766143,georgia, usa,3 days left
+241,6810,ford,mpv,2016,clean vehicle,66781.0,silver,2fmpk3k95gbb76939,167656730,texas, usa,2 days left
+242,2900,ford,cargo,2011,clean vehicle,190994.0,white,1ftne2ew6bda76057,167758509,florida, usa,2 hours left
+243,43500,chevrolet,2500,2018,clean vehicle,56007.0,white,1gc1kwey6jf259008,167766144,georgia, usa,6 days left
+244,4450,ford,mpv,2016,clean vehicle,32486.0,white,2fmpk3g96gbc42228,167656731,texas, usa,2 days left
+245,5800,ford,door,2011,clean vehicle,195908.0,white,1ftew1cm0bfc14625,167758515,florida, usa,2 hours left
+246,16500,chevrolet,equinox,2018,clean vehicle,18020.0,silver,2gnaxjev9j6276848,167766146,georgia, usa,3 days left
+247,4240,dodge,mpv,2016,clean vehicle,83262.0,white,3c4pdcbb9gt181387,167656732,texas, usa,2 days left
+248,26500,ford,pickup,2008,clean vehicle,62015.0,white,1ftxw43r18eb10682,167758527,pennsylvania, usa,1 days left
+249,13700,chevrolet,equinox,2017,clean vehicle,36421.0,silver,2gnalcek6h6289807,167766173,georgia, usa,3 days left
+250,8600,ford,door,2016,clean vehicle,73321.0,white,1ftew1cf8gkd34592,167656733,texas, usa,2 days left
+251,8000,ford,chassis,2008,clean vehicle,132379.0,white,1fdxf46r08ea18180,167758623,florida, usa,2 days left
+252,14200,chevrolet,equinox,2017,clean vehicle,28013.0,silver,2gnalcek6h6288804,167766178,georgia, usa,3 days left
+253,7040,ford,mpv,2016,clean vehicle,33291.0,silver,2fmpk3k80gbc65759,167656736,texas, usa,2 days left
+254,4700,ford,chassis,2005,clean vehicle,225236.0,no_color,1fdxf46p35ea79064,167758702,florida, usa,2 hours left
+255,30851,chevrolet,door,2016,clean vehicle,43176.0,red,3gcuksec6gg284475,167766204,georgia, usa,2 days left
+256,4880,ford,mpv,2016,clean vehicle,36876.0,silver,2fmpk4g97gbc51848,167656738,texas, usa,2 days left
+257,14500,dodge,pickup,2006,clean vehicle,111782.0,silver,1d7ks28c96j246101,167758709,pennsylvania, usa,3 days left
+258,7600,chevrolet,door,2017,clean vehicle,110489.0,brown,1g1ze5st0hf155999,167766640,nebraska, usa,5 hours left
+259,13270,ford,door,2016,clean vehicle,84035.0,white,1ft7w2btxgeb64448,167656756,texas, usa,2 days left
+260,12800,ford,door,2012,clean vehicle,131101.0,gray,1ftfw1et3cfb01665,167758730,arizona, usa,20 hours left
+261,33000,chevrolet,1500,2018,clean vehicle,52521.0,white,3gcukreh0jg303596,167766786,ontario, canada,10 days left
+262,9280,ford,door,2016,clean vehicle,101380.0,white,1ftfw1ef9gkf57726,167656757,texas, usa,2 days left
+263,900,ford,van,2003,clean vehicle,142027.0,white,1ftne24293hb19928,167758752,florida, usa,2 hours left
+264,7560,ford,door,2016,clean vehicle,111476.0,gray,1ftfx1ef7gkd59790,167656758,texas, usa,2 days left
+265,19500,ford,drw,2011,clean vehicle,76897.0,white,1fd8w3gt0beb32874,167759102,pennsylvania, usa,2 days left
+266,17100,chevrolet,malibu,2019,clean vehicle,15780.0,white,1g1zd5st5kf112138,167767034,washington, usa,2 days left
+267,8020,ford,door,2016,clean vehicle,31944.0,white,1ftew1cp2gke43168,167656759,texas, usa,2 days left
+268,10300,ford,fiesta,2019,clean vehicle,18937.0,black,3fadp4bjxkm123238,167759377,missouri, usa,4 days left
+269,22600,chevrolet,van,2019,clean vehicle,9706.0,white,1gcwgafgxk1243764,167767036,washington, usa,2 days left
+270,10480,ford,doors,2016,clean vehicle,57289.0,gray,wf0dp3th0g4113219,167656760,texas, usa,2 days left
+271,10300,ford,fiesta,2019,clean vehicle,19956.0,silver,3fadp4bj4km123235,167759380,missouri, usa,4 days left
+272,22700,chevrolet,van,2019,clean vehicle,6075.0,white,1gcwgafg4k1252945,167767041,washington, usa,2 days left
+273,7410,ford,door,2016,clean vehicle,21034.0,gray,1ftex1ep1gfd60365,167656761,texas, usa,2 days left
+274,10300,ford,fiesta,2019,clean vehicle,22881.0,gray,3fadp4bj7km123231,167759385,missouri, usa,4 days left
+275,10300,chevrolet,door,2013,clean vehicle,167600.0,gray,1gc4k0cgxdf194396,167767134,washington, usa,2 days left
+276,7570,ford,door,2016,clean vehicle,37252.0,white,1ftfx1ef0gkf25969,167656762,texas, usa,2 days left
+277,67000,dodge,challenger,2019,clean vehicle,10944.0,blue,2c3cdzl97kh518237,167759490,ohio, usa,21 hours left
+278,18900,chevrolet,impala,2019,clean vehicle,27601.0,white,1g11z5s37ku129047,167767312,texas, usa,21 hours left
+279,12560,ford,doors,2019,clean vehicle,15958.0,white,1fd8w3ht1kee23298,167656776,florida, usa,18 hours left
+280,33000,dodge,durango,2019,clean vehicle,32251.0,white,1c4sdjct6kc717612,167759493,ohio, usa,21 hours left
+281,18300,chevrolet,impala,2019,clean vehicle,25809.0,black,2g11z5s33k9132248,167767315,texas, usa,21 hours left
+282,11760,ford,cab,2017,clean vehicle,30553.0,white,1fd8w3ht4hed36245,167656779,texas, usa,2 days left
+283,31700,dodge,durango,2019,clean vehicle,26549.0,red,1c4sdjct5kc744865,167759499,ohio, usa,21 hours left
+284,25,dodge,door,2007,salvage insurance,160528.0,dark blue,2b3ka43g87h836300,167416803,minnesota, usa,17 hours left
+285,0,ford,door,2000,salvage insurance,124969.0,black,1fafp34p7yw270338,167251902,oklahoma, usa,17 hours left
+286,7340,ford,doors,2019,clean vehicle,15854.0,gray,1fatp8uh7k5172626,167693585,florida, usa,17 hours left
+287,8200,hyundai,door,2017,clean vehicle,56690.0,white,5npd84lf6hh128808,167117726,connecticut, usa,5 hours left
+288,3000,kia,door,2013,clean vehicle,97142.0,silver,knagm4a75d5378293,167552545,missouri, usa,9 days left
+289,6530,jeep,mpv,2019,clean vehicle,10185.0,black,3c4njdcb3kt659526,167680488,georgia, usa,17 hours left
+290,0,mazda,door,2009,salvage insurance,117541.0,gray,jm3er293590215768,167543177,indiana, usa,16 hours left
+291,12700,kia,soul,2019,clean vehicle,23514.0,silver,kndjp3a55k7006351,167679072,california, usa,10 days left
+292,13800,kia,sorento,2017,clean vehicle,86959.0,gray,5xyphda50hg232046,167803771,north carolina, usa,3 days left
+293,0,chevrolet,pickup,1998,salvage insurance,258631.0,gray,1gccs1445wk226994,167417659,texas, usa,17 hours left
+294,725,ford,door,2017,salvage insurance,67279.0,gray,3fa6p0h75hr150081,167255037,virginia, usa,2 days left
+295,7400,ford,doors,2019,clean vehicle,16482.0,gray,1fatp8uh2k5188622,167693593,florida, usa,17 hours left
+296,9800,hyundai,elantra,2017,clean vehicle,35687.0,red,kmhd84lf5hu191402,167117732,connecticut, usa,5 hours left
+297,0,honda,door,2003,salvage insurance,152608.0,white,1hgcm56363a030975,167552893,arkansas, usa,17 hours left
+298,4400,jeep,mpv,2019,clean vehicle,17911.0,green,3c4njcbbxkt664931,167680540,georgia, usa,17 hours left
+299,10330,infiniti,mpv,2019,clean vehicle,21278.0,blue,5n1dl0mm9kc550722,167698666,florida, usa,22 hours left
+300,1800,chevrolet,door,2011,salvage insurance,47269.0,black,2g1fb3ddxb9212618,167418537,arkansas, usa,17 hours left
+301,50,chevrolet,door,2008,salvage insurance,172102.0,blue,1g1al58f787159241,167650632,texas, usa,18 hours left
+302,720,ford,wagon,2006,clean vehicle,26914.0,no_color,1fafp36n06w137851,167660576,florida, usa,23 hours left
+303,22800,ford,door,2017,clean vehicle,67217.0,red,1ftew1ep3hfb25518,167765330,michigan, usa,2 days left
+304,2500,ford,door,2017,salvage insurance,78698.0,black,1fmcu9gd2huc27625,167359161,california, usa,19 hours left
+305,0,ford,door,2003,salvage insurance,246065.0,gold,1fafp55u03a242094,167610324,kansas, usa,8 days left
+306,9190,gmc,mpv,2017,clean vehicle,41961.0,black,1gkknxls3hz174527,167703306,virginia, usa,17 hours left
+307,10900,jeep,mpv,2019,clean vehicle,13273.0,red,1c4hjxeg1kw609998,167264249,michigan, usa,2 days left
+308,10400,infiniti,mpv,2019,clean vehicle,31713.0,black,5n1dl0mm1kc552741,167698670,florida, usa,22 hours left
+309,0,chevrolet,door,2004,salvage insurance,0.0,maroon,3gnek12t74g240524,167418651,wyoming, usa,18 hours left
+310,0,chevrolet,door,2003,salvage insurance,194673.0,gray,1gndt13s632267445,167650636,texas, usa,18 hours left
+311,7320,chevrolet,pickup,2008,clean vehicle,325611.0,silver,1gchk23648f125262,167660581,florida, usa,22 hours left
+312,22809,ford,f-150,2017,clean vehicle,50732.0,black,1ftfx1ef5hke41700,167765332,michigan, usa,20 hours left
+313,0,ford,van,1998,salvage insurance,186855.0,blue,2fmda5143wba16791,167359170,california, usa,19 hours left
+314,0,ford,door,2013,salvage insurance,94004.0,black,3fa6p0h74dr270819,167610728,minnesota, usa,17 hours left
+315,5520,gmc,mpv,2017,clean vehicle,52904.0,silver,2gkfltek8h6226257,167703312,virginia, usa,17 hours left
+316,10900,jeep,mpv,2019,clean vehicle,14195.0,orange,1c4hjxeg1kw608401,167264250,michigan, usa,2 days left
+317,6330,jeep,mpv,2019,clean vehicle,43965.0,red,1c4pjldbxkd300679,167698671,florida, usa,22 hours left
+318,0,chevrolet,door,2009,salvage insurance,117059.0,black,kl1td66e39b645208,167418694,colorado, usa,18 hours left
+319,25,chevrolet,pickup,2010,salvage insurance,149189.0,white,3gcrkse37ag234620,167650663,colorado, usa,18 hours left
+320,2320,dodge,door,2007,clean vehicle,112182.0,red,2b3ka43g67h630568,167660582,florida, usa,22 hours left
+321,23702,ford,door,2017,clean vehicle,49024.0,black,1ftew1ep4hkc08477,167765335,michigan, usa,2 days left
+322,0,ford,chassis,1994,salvage insurance,0.0,green,1fdee14n7rha47894,167359174,california, usa,19 hours left
+323,0,ford,door,1997,salvage insurance,203297.0,green,1fmdu35p7vub38059,167610731,minnesota, usa,17 hours left
+324,5520,gmc,mpv,2017,clean vehicle,35821.0,silver,2gkfltek8h6338184,167703317,virginia, usa,17 hours left
+325,4050,heartland,pioneer,2018,clean vehicle,1.0,gray,5sfpb3326je365727,167265963,pennsylvania, usa,7 days left
+326,14810,infiniti,mpv,2019,clean vehicle,32611.0,brown,jn8az2ne0k9233910,167698673,florida, usa,22 hours left
+327,25,chevrolet,door,2011,salvage insurance,105244.0,white,1gccsbf97b8118236,167650664,colorado, usa,18 hours left
+328,2960,chrysler,van,2008,clean vehicle,164048.0,red,2a8hr54px8r787529,167660587,florida, usa,23 hours left
+329,24800,ford,door,2017,clean vehicle,46955.0,gray,1ftew1ef3hfc22483,167765337,michigan, usa,2 days left
+330,0,ford,door,1996,salvage insurance,296860.0,green,1falp62w5th144314,167359712,california, usa,19 hours left
+331,0,ford,door,2006,salvage insurance,203158.0,red,1fmzk04136ga07119,167610991,illinois, usa,17 hours left
+332,6270,gmc,mpv,2017,clean vehicle,70443.0,black,2gkfluek3h6232330,167703322,virginia, usa,17 hours left
+333,1880,heartland,trail,2012,clean vehicle,1.0,white,5sfnb2425ce237109,167266201,pennsylvania, usa,7 days left
+334,10050,infiniti,mpv,2019,clean vehicle,18229.0,gray,5n1dl0mm3kc557634,167698674,florida, usa,22 hours left
+335,225,chevrolet,door,2014,salvage insurance,87673.0,red,3gcukrec2eg226031,167650668,colorado, usa,18 hours left
+336,26900,chevrolet,traverse,2018,clean vehicle,42941.0,black,1gnevhkw8jj148388,167781794,missouri, usa,20 hours left
+337,1420,chrysler,door,2007,clean vehicle,104405.0,gold,1c3lc66m77n591138,167660594,florida, usa,23 hours left
+338,27003,ford,door,2017,clean vehicle,57186.0,black,1ftew1ef4hfa16802,167765338,michigan, usa,20 hours left
+339,0,ford,door,2002,salvage insurance,214800.0,black,3fafp37372r151014,167360232,south carolina, usa,2 days left
+340,350,ford,door,2004,salvage insurance,236980.0,gray,1fmfu16lx4la45470,167611031,illinois, usa,17 hours left
+341,5600,gmc,mpv,2017,clean vehicle,59808.0,black,2gkfltek3h6256220,167703323,virginia, usa,17 hours left
+342,6680,heartland,country,2011,clean vehicle,1.0,gray,5sfbg3524be216811,167266214,pennsylvania, usa,7 days left
+343,10120,infiniti,mpv,2019,clean vehicle,20681.0,white,5n1dl0mm2kc556913,167698675,florida, usa,22 hours left
+344,0,chevrolet,door,2010,salvage insurance,137422.0,red,2cnflnew5a6355858,167650683,colorado, usa,18 hours left
+345,3920,ford,door,2015,clean vehicle,102700.0,white,1ftmf1c85fkd31564,167660596,georgia, usa,2 days left
+346,23100,ford,door,2017,clean vehicle,53270.0,black,1ftew1epxhfb71427,167765343,michigan, usa,20 hours left
+347,0,gmc,door,2004,salvage insurance,235348.0,gold,1gket16s646227597,167360322,south carolina, usa,2 days left
+348,5630,gmc,mpv,2017,clean vehicle,27195.0,black,2gkfltek2h6218025,167703325,virginia, usa,17 hours left
+349,0,heartland,sundance,2009,clean vehicle,1.0,white,5sfgf29269e031344,167266321,pennsylvania, usa,7 days left
+350,2800,jaguar,doors,2019,clean vehicle,20849.0,black,sajbd4fx6kcy78964,167698678,florida, usa,22 hours left
+351,0,chevrolet,door,2008,salvage insurance,159266.0,gray,2g1wb58kx81220813,167650796,california, usa,19 hours left
+352,8850,ford,door,2015,clean vehicle,143818.0,black,1ftew1cf6ffc68843,167660597,georgia, usa,2 days left
+353,18712,ford,f-150,2017,clean vehicle,67347.0,black,1ftex1e83hfb13813,167765400,michigan, usa,20 hours left
+354,0,ford,pickup,2009,salvage insurance,180364.0,blue,1ftyr10d19pa60391,167360535,tennessee, usa,2 days left
+355,0,ford,door,2009,salvage insurance,184889.0,black,1fahp35n09w109143,167611047,illinois, usa,17 hours left
+356,6300,gmc,mpv,2017,clean vehicle,117400.0,blue,2gkfluek6h6317310,167703326,virginia, usa,17 hours left
+357,2220,heartland,country,2010,clean vehicle,1.0,white,5sfbg3823ae204868,167266337,pennsylvania, usa,7 days left
+358,6930,jeep,mpv,2019,clean vehicle,47798.0,red,1c4pjmdx4kd197521,167698679,florida, usa,22 hours left
+359,25,chevrolet,door,2008,salvage insurance,130623.0,white,1gnfc13j88r167278,167650817,california, usa,8 days left
+360,3440,ford,door,2015,clean vehicle,124542.0,white,1fadp5au3fl108248,167660600,georgia, usa,2 days left
+361,50412,ford,door,2017,clean vehicle,47129.0,black,1ft7w2bt3hef41039,167765418,michigan, usa,2 days left
+362,25,ford,pickup,1994,salvage insurance,206162.0,white,1ftdf15y2rnb12612,167361489,georgia, usa,2 days left
+363,950,ford,pk,2001,salvage insurance,229886.0,red,1ftrx17w41nb80705,167611176,illinois, usa,17 hours left
+364,9270,gmc,mpv,2017,clean vehicle,19490.0,gray,1gkknxls2hz262405,167703329,virginia, usa,17 hours left
+365,11380,jeep,mpv,2019,clean vehicle,12038.0,black,1c4hjxeg2kw600727,167271446,michigan, usa,2 days left
+366,5350,hyundai,mpv,2019,clean vehicle,43536.0,blue,km8j33a49ku860727,167698680,florida, usa,22 hours left
+367,2725,chevrolet,door,2004,salvage insurance,308451.0,black,1gcjc33204f177273,167650940,south carolina, usa,2 days left
+368,3790,ford,door,2015,clean vehicle,100893.0,gray,3fa6p0h71fr180238,167660602,georgia, usa,2 days left
+369,40514,ford,door,2017,clean vehicle,90304.0,white,1ft7w2bt6heb60592,167765419,michigan, usa,20 hours left
+370,0,ford,door,1997,salvage insurance,146912.0,green,1ftdf18w8vna61251,167362449,wisconsin, usa,2 days left
+371,0,ford,door,1998,salvage insurance,131367.0,white,1ftrf18l7wka62471,167611301,illinois, usa,17 hours left
+372,9190,gmc,mpv,2017,clean vehicle,31394.0,gray,1gkknxls7hz295013,167703330,virginia, usa,17 hours left
+373,10330,infiniti,mpv,2019,clean vehicle,25933.0,gray,5n1dl0mm9kc556522,167698681,florida, usa,22 hours left
+374,1000,acura,door,2008,salvage insurance,118250.0,gray,5j8tb18578a010979,167362709,michigan, usa,2 days left
+375,2925,bmw,door,2013,salvage insurance,46060.0,white,5uxwx9c57d0a24286,167651122,florida, usa,2 days left
+376,3830,ford,door,2015,clean vehicle,50593.0,gold,3fa6p0hdxfr241138,167660603,georgia, usa,2 days left
+377,43402,ford,door,2017,clean vehicle,62387.0,blue,1ft7w2bt3hed62547,167765425,michigan, usa,2 days left
+378,1025,gmc,door,2009,salvage insurance,169634.0,black,1gkfk03219r252659,167362649,michigan, usa,2 days left
+379,17200,honda,van,2016,clean vehicle,72527.0,gray,5fnrl5h65gb151898,167611321,new jersey, usa,2 hours left
+380,54680,harley-davidson,road/street,2016,clean vehicle,9502.0,black,1hd1krm1xgb609213,167703374,virginia, usa,18 hours left
+381,6940,honda,door,2010,clean vehicle,217290.0,no_color,5fnyf4h99ab034386,167275444,pennsylvania, usa,3 days left
+382,13080,infiniti,mpv,2019,clean vehicle,17243.0,gray,jn8az2nf9k9685086,167698683,florida, usa,22 hours left
+383,25,chevrolet,door,2007,salvage insurance,194903.0,gray,3gnfk16307g310044,167651207,virginia, usa,2 days left
+384,10630,ford,door,2015,clean vehicle,82899.0,white,1ftew1eg0ffb32472,167660608,georgia, usa,2 days left
+385,43009,ford,door,2017,clean vehicle,76418.0,white,1ft7w2bt3heb19966,167765426,michigan, usa,2 days left
+386,25,gmc,door,2003,salvage insurance,138441.0,white,1gkdt13s332100344,167362657,michigan, usa,2 days left
+387,4600,ford,pickup,2006,salvage insurance,240740.0,brown,1ftpw14v66fa82105,167611554,mississippi, usa,8 days left
+388,4950,honda,mpv,2016,clean vehicle,71404.0,black,2hkrm3h45gh513861,167703381,virginia, usa,17 hours left
+389,3760,hyundai,doors,2019,clean vehicle,30382.0,silver,5npd84lf6kh456317,167698685,florida, usa,22 hours left
+390,3900,acura,door,2009,clean vehicle,179389.0,black,19uua96529a004646,167389316,texas, usa,2 hours left
+391,0,cadillac,coupe,2000,salvage insurance,105169.0,white,1g6el12y9yu148063,167651218,virginia, usa,9 days left
+392,3830,ford,door,2015,clean vehicle,82534.0,silver,3fa6p0hdxfr258523,167660609,georgia, usa,2 days left
+393,53500,ford,door,2017,clean vehicle,55732.0,white,1ft8w4dtxhed96692,167765452,michigan, usa,20 hours left
+394,25,ford,door,2010,salvage insurance,198596.0,gray,1fmeu7de5aua53694,167362668,michigan, usa,2 days left
+395,25,ford,door,1998,salvage insurance,300021.0,brown,1ftzx0766wka18481,167611660,arkansas, usa,17 hours left
+396,6240,honda,door,2015,clean vehicle,83623.0,silver,5fnyf4h26fb052452,167703518,virginia, usa,2 days left
+397,4150,jeep,door,2014,clean vehicle,108895.0,white,1c4njrfb0ed707552,167698715,new york, usa,2 days left
+398,25,jeep,door,1999,salvage insurance,226972.0,black,1j4gw58s4xc558310,167246338,florida, usa,16 hours left
+399,61200,bmw,series,2020,clean vehicle,7509.0,black,wba7t2c04lgl17687,167417053,california, usa,7 days left
+400,0,buick,door,2006,salvage insurance,137464.0,blue,2g4wc582961163677,167651221,virginia, usa,9 days left
+401,13500,bmw,series,2014,clean vehicle,33542.0,blue,wba3d5c51ekx97650,167782815,new jersey, usa,2 days left
+402,6490,ford,door,2015,clean vehicle,74754.0,black,1fm5k7d88fga24308,167660611,georgia, usa,2 days left
+403,51502,ford,door,2017,clean vehicle,27661.0,black,1ft8w3dt8hec12120,167765457,michigan, usa,2 days left
+404,250,ford,door,2010,salvage insurance,115241.0,white,3fahp0ha6ar187697,167362678,michigan, usa,2 days left
+405,25,ford,door,1984,salvage insurance,41577.0,white,2ftcf15y9eca14589,167611661,arkansas, usa,17 hours left
+406,8160,honda,van,2015,clean vehicle,109027.0,gray,5fnrl5h96fb012419,167703523,virginia, usa,2 days left
+407,7770,jeep,door,2014,clean vehicle,72732.0,gray,1c4rjfbg4ec441069,167698716,new york, usa,2 days left
+408,200,jeep,door,2001,salvage insurance,126400.0,green,1j4ft48s01l590080,167247039,maryland, usa,16 hours left
+409,25,audi,door,2008,salvage insurance,177422.0,black,wa1by74l38d010163,167417202,texas, usa,17 hours left
+410,0,chevrolet,door,1995,salvage insurance,274706.0,green,2gcec19h8s1195266,167425634,arizona, usa,2 days left
+411,1825,bmw,coupe,2008,salvage insurance,77984.0,white,wbawb33548p132854,167651338,georgia, usa,2 days left
+412,39800,bmw,series,2017,clean vehicle,23177.0,blue,wba7e2c58hg739412,167782823,california, usa,21 hours left
+413,9210,ford,door,2015,clean vehicle,26911.0,silver,1ftew1cg4ffa66589,167660613,georgia, usa,2 days left
+414,58500,ford,srw,2019,clean vehicle,21527.0,blue,1ft8w3bt3kee15023,167765561,washington, usa,21 hours left
+415,125,ford,door,2014,salvage insurance,56461.0,silver,1fm5k8gt9ega74266,167362681,michigan, usa,2 days left
+416,3960,honda,door,2015,clean vehicle,95128.0,white,19xfb2f81fe252000,167703530,virginia, usa,2 days left
+417,5998,hyundai,doors,2014,clean vehicle,122975.0,phantom black,5npdh4ae0eh480157,167279690,new york, usa,5 days left
+418,3700,honda,doors,2014,clean vehicle,162824.0,blue,jhmze2h34es000337,167698717,new york, usa,2 days left
+419,0,kia,wagon,2008,salvage insurance,148463.0,silver,knafg525787197602,167247592,indiana, usa,16 hours left
+420,0,audi,door,2005,salvage insurance,181896.0,black,waudg74f05n113751,167419563,california, usa,19 hours left
+421,0,bmw,door,2000,salvage insurance,216657.0,gray,wbaam3346yfp77118,167425906,utah, usa,2 days left
+422,5000,gmc,door,2012,clean vehicle,140339.0,black,1gkkrpedxcj207971,167702669,utah, usa,19 hours left
+423,15050,infiniti,mpv,2019,clean vehicle,26786.0,white,jn8az2ne9k9229368,167256592,texas, usa,17 hours left
+424,3960,hyundai,doors,2019,clean vehicle,35623.0,red,5npd84lf5kh403222,167697946,ohio, usa,2 days left
+425,36300,lincoln,nautilus,2019,clean vehicle,14541.0,black,2lmpj6l91kbl31468,167151980,california, usa,1 days left
+426,55600,lexus,gx,2020,clean vehicle,8186.0,silver,jtjam7bx4l5251250,167605747,florida, usa,2 days left
+427,2630,nissan,doors,2018,clean vehicle,36739.0,gray,3n1cn7ap5jl872135,167692446,california, usa,20 hours left
+428,5690,nissan,mpv,2017,clean vehicle,42616.0,blue,5n1at2mv4hc773816,167668377,new jersey, usa,17 hours left
+429,19500,audi,q5,2017,clean vehicle,65833.0,blue,wa1l2afpxha049370,167339535,texas, usa,3 days left
+430,450,chevrolet,coupe,2008,salvage insurance,123515.0,yellow,1g1al18f587145539,167650407,minnesota, usa,2 days left
+431,20400,cadillac,door,2015,clean vehicle,36122.0,white,3gyfnee39fs587810,167780469,wisconsin, usa,2 days left
+432,4320,chevrolet,door,2011,clean vehicle,88359.0,brown,2cnfleec9b6313197,167660381,florida, usa,22 hours left
+433,33001,ford,f-150,2017,clean vehicle,35905.0,gray,1ftfw1eg3hfc66707,167765248,michigan, usa,2 days left
+434,10000,ford,door,2017,salvage insurance,35747.0,red,1ftew1efxhkc69002,167357511,arkansas, usa,17 hours left
+435,0,ford,door,2004,salvage insurance,167011.0,red,1fmfu18l84lb61201,167601555,maryland, usa,16 hours left
+436,5790,gmc,door,2012,clean vehicle,105020.0,white,1gtr2ve74cz121991,167702672,utah, usa,19 hours left
+437,14750,infiniti,mpv,2019,clean vehicle,11047.0,black,jn8az2nexk9236071,167256600,texas, usa,17 hours left
+438,4010,hyundai,doors,2019,clean vehicle,31233.0,silver,kmhd84lf4ku746279,167697947,ohio, usa,2 days left
+439,40000,mercedes-benz,gle,2019,clean vehicle,19427.0,white,4jgda5gb4kb204919,167152151,california, usa,1 days left
+440,13000,kia,sportage,2017,clean vehicle,71991.0,silver,kndpn3ac7h7113313,167606881,new jersey, usa,2 hours left
+441,3550,nissan,doors,2018,clean vehicle,29043.0,blue,3n1ab7ap2jy244200,167692447,california, usa,20 hours left
+442,3040,nissan,doors,2017,clean vehicle,36064.0,gray,3n1ab7ap5hy411143,167668543,new jersey, usa,17 hours left
+443,0,chevrolet,coupe,2008,salvage insurance,270080.0,yellow,1g1al18f187245041,167650422,illinois, usa,17 hours left
+444,36400,audi,5,2015,clean vehicle,47213.0,black,wuac6bfr0fa901212,167780470,wisconsin, usa,2 days left
+445,4480,ford,door,2011,clean vehicle,116480.0,black,2fmdk3gc0bbb23680,167660383,florida, usa,23 hours left
+446,31003,ford,door,2017,clean vehicle,72084.0,red,1ftew1eg0hfb93193,167765253,michigan, usa,20 hours left
+447,75,ford,pickup,2001,salvage insurance,295780.0,gold,1ftrw08l61kc05834,167357592,arkansas, usa,17 hours left
+448,8850,gmc,door,2011,clean vehicle,148035.0,white,1gt120c83bf236190,167702770,utah, usa,19 hours left
+449,14750,infiniti,mpv,2019,clean vehicle,11396.0,white,jn8az2nexk9236037,167256601,texas, usa,17 hours left
+450,4690,hyundai,mpv,2019,clean vehicle,33785.0,silver,km8k12aa0ku242609,167697948,ohio, usa,2 days left
+451,23000,land,sport,2018,clean vehicle,20103.0,black,salcp2rx6jh739311,167153784,california, usa,1 days left
+452,46900,land,discovery,2018,clean vehicle,32387.0,black,salrr2rk0ja052195,167606908,florida, usa,2 days left
+453,10740,mercedes-benz,doors,2018,clean vehicle,48140.0,white,wddwk4jb2jf613298,167692448,california, usa,20 hours left
+454,3160,nissan,doors,2017,clean vehicle,34861.0,gray,3n1ab7ap0hy315498,167668544,new jersey, usa,17 hours left
+455,0,chevrolet,door,2006,salvage insurance,268040.0,silver,1g1zt53f46f254868,167650486,texas, usa,17 hours left
+456,3450,chrysler,door,2011,clean vehicle,114119.0,gold,1c3bc1fg1bn519076,167660385,florida, usa,22 hours left
+457,27102,ford,f-150,2017,clean vehicle,34165.0,red,1ftfw1eg1hfb78397,167765256,michigan, usa,2 days left
+458,500,gmc,door,2018,salvage insurance,27442.0,black,1gkknmls5jz177336,167357601,arkansas, usa,17 hours left
+459,5100,gmc,door,2011,clean vehicle,144792.0,white,1gtr2uea3bz242502,167702772,utah, usa,19 hours left
+460,15010,infiniti,mpv,2019,clean vehicle,11394.0,beige,jn8az2ne8k9236456,167256603,texas, usa,17 hours left
+461,5800,jeep,mpv,2019,clean vehicle,30546.0,silver,1c4pjldb3kd419559,167697949,ohio, usa,2 days left
+462,23200,land,sport,2018,clean vehicle,23745.0,black,salcp2rx0jh740860,167153788,california, usa,1 days left
+463,8000,hyundai,door,2015,clean vehicle,88274.0,red,km8jucag9fu984199,167607388,pennsylvania, usa,7 days left
+464,3390,nissan,doors,2018,clean vehicle,38349.0,gray,3n1ab7ap5jy293102,167692449,california, usa,20 hours left
+465,3140,nissan,doors,2017,clean vehicle,30142.0,white,3n1ab7ap1hy310259,167668545,new jersey, usa,17 hours left
+466,25,chevrolet,door,2007,salvage insurance,267834.0,black,3gnfk12387g179905,167650490,texas, usa,17 hours left
+467,15000,bmw,door,2014,clean vehicle,44730.0,silver,wba3b5g54ens10419,167780701,illinois, usa,21 hours left
+468,10440,chevrolet,cab,2011,clean vehicle,92476.0,blue,1gc1kyc87bf185906,167660387,florida, usa,23 hours left
+469,23911,ford,f-150,2017,clean vehicle,25698.0,black,1ftew1cf3hfb78746,167765258,michigan, usa,20 hours left
+470,25,ford,pk,2010,salvage insurance,155242.0,gray,1ftfx1ev7akc32939,167357792,oklahoma, usa,17 hours left
+471,21400,gmc,acadia,2018,clean vehicle,54332.0,gray,1gkknwls6jz133440,167602130,new jersey, usa,2 hours left
+472,5380,gmc,cab,2011,clean vehicle,119215.0,white,1gt120cg5bf167316,167702775,utah, usa,19 hours left
+473,11000,jeep,mpv,2019,clean vehicle,8930.0,red,1c4hjxeg0kw596497,167256941,michigan, usa,2 days left
+474,4950,jeep,mpv,2019,clean vehicle,46985.0,silver,1c4pjllb6kd184477,167697950,ohio, usa,2 days left
+475,22500,land,sport,2018,clean vehicle,30220.0,black,salcp2rx7jh741147,167153791,california, usa,2 days left
+476,30300,maserati,ghibli,2017,clean vehicle,37021.0,black,zam57xslxh1248775,167607797,florida, usa,2 days left
+477,2630,nissan,doors,2018,clean vehicle,43152.0,white,3n1cn7ap5jl882275,167692452,california, usa,20 hours left
+478,3140,nissan,doors,2017,clean vehicle,34318.0,silver,3n1ab7ap1hl639346,167668546,new jersey, usa,17 hours left
+479,2300,chevrolet,door,2011,salvage insurance,88287.0,white,1gnskbe03br198151,167650581,arkansas, usa,17 hours left
+480,4310,chevrolet,door,2011,clean vehicle,105486.0,black,2cnaldec6b6382868,167660398,florida, usa,22 hours left
+481,26012,ford,door,2017,clean vehicle,19850.0,black,1ftew1ef2hfb83224,167765260,michigan, usa,20 hours left
+482,75,ford,door,2014,salvage insurance,116535.0,silver,1fadp3k26el249167,167357800,oklahoma, usa,17 hours left
+483,48500,gmc,1500,2019,clean vehicle,15777.0,black,1gtu9fel6kz311976,167603375,pennsylvania, usa,1 days left
+484,3330,gmc,mpv,2009,clean vehicle,87448.0,white,1gtgg25k391106224,167702843,utah, usa,19 hours left
+485,11200,jeep,mpv,2019,clean vehicle,8395.0,yellow,1c4hjxeg7kw589272,167256942,michigan, usa,2 days left
+486,4730,hyundai,mpv,2019,clean vehicle,30121.0,red,km8j23a45ku893842,167697951,ohio, usa,2 days left
+487,24900,mercedes-benz,glc,2018,clean vehicle,33687.0,white,wdc0g4jb4jv097463,167153811,california, usa,1 days left
+488,29400,mercedes-benz,e-class,2017,clean vehicle,37561.0,blue,wddzf4jb6ha277485,167607863,florida, usa,2 days left
+489,8350,nissan,cab,2018,clean vehicle,32256.0,gray,1n6aa1ej3jn519666,167692453,california, usa,20 hours left
+490,475,peterbilt,truck,2012,salvage insurance,902041.0,gold,1xp4d49x9cd123630,167529786,florida, usa,17 hours left
+491,3210,nissan,doors,2017,clean vehicle,25255.0,black,3n1ab7apxhy302645,167668547,new jersey, usa,17 hours left
+492,25,chevrolet,van,2006,salvage insurance,165327.0,white,1gndu23l46d143789,167650597,arkansas, usa,17 hours left
+493,4200,chevrolet,cutaway,2006,clean vehicle,118009.0,white,1gbhg31u661113654,167781216,wisconsin, usa,21 hours left
+494,8430,chevrolet,utility,2011,clean vehicle,114547.0,black,3gntkge3xbg398052,167660399,florida, usa,22 hours left
+495,25503,ford,f-150,2017,clean vehicle,18647.0,black,1ftmf1ef2hfb83980,167765261,michigan, usa,9 minutes
+496,0,ford,pickup,1996,salvage insurance,252588.0,red,1ftef15n0tlc14455,167357804,oklahoma, usa,17 hours left
+497,26000,gmc,limited,2019,clean vehicle,16669.0,black,2gtv2mecxk1173011,167603430,pennsylvania, usa,1 days left
+498,3900,honda,doors,2017,clean vehicle,47970.0,blue,2hgfc2f52hh522914,167702907,virginia, usa,2 days left
+499,11200,jeep,mpv,2019,clean vehicle,12905.0,gray,1c4hjxeg7kw590115,167256952,michigan, usa,2 days left
+500,8610,jeep,mpv,2019,clean vehicle,22123.0,silver,1c4rjebg1kc776053,167697952,ohio, usa,2 days left
+501,28000,mercedes-benz,gle,2018,clean vehicle,40780.0,white,4jgda5jbxjb046383,167153817,california, usa,1 days left
+502,84900,mercedes-benz,sl-class,2017,clean vehicle,25302.0,silver,wddjk7ea3hf044968,167607883,florida, usa,2 days left
+503,10840,lexus,mpv,2017,clean vehicle,36596.0,black,2t2bzmca4hc087456,167692655,california, usa,20 hours left
+504,100,peterbilt,truck,2012,salvage insurance,0.0,blue,1xp4d49x1cd144875,167529787,florida, usa,17 hours left
+505,11050,ram,door,2017,clean vehicle,30421.0,white,1c6rr7pt3hs659994,167668548,new jersey, usa,17 hours left
+506,0,chevrolet,door,2012,salvage insurance,134938.0,orange,1g1jc5sh7c4114661,167650604,oklahoma, usa,17 hours left
+507,1000,chevrolet,door,2005,clean vehicle,135675.0,gray,1gnet16s156132062,167781219,wisconsin, usa,21 hours left
+508,3570,dodge,door,2015,clean vehicle,17355.0,black,3c4pdcab2ft637813,167660417,georgia, usa,2 days left
+509,25001,ford,door,2017,clean vehicle,27773.0,gray,1ftfw1ef5hfb70262,167765268,michigan, usa,2 days left
+510,0,ford,door,2010,salvage insurance,86841.0,silver,3fahp0ga3ar366961,167357806,oklahoma, usa,17 hours left
+511,5630,gmc,mpv,2017,clean vehicle,58366.0,black,2gkfltek2h6317685,167702915,virginia, usa,2 days left
+512,11100,jeep,mpv,2019,clean vehicle,11229.0,white,1c4hjxegxkw589301,167256954,michigan, usa,2 days left
+513,4650,hyundai,mpv,2019,clean vehicle,27492.0,white,km8j23a44ku882752,167697953,ohio, usa,2 days left
+514,0,lincoln,door,2005,salvage insurance,89705.0,green,1lnhm87a25y619997,167154617,minnesota, usa,17 hours left
+515,3820,nissan,mpv,2016,clean vehicle,41654.0,blue,5n1at2mn5gc894272,167692784,california, usa,20 hours left
+516,0,peterbilt,truck,2009,salvage insurance,982486.0,blue,1xp7d49x09d784257,167529788,florida, usa,17 hours left
+517,2900,nissan,doors,2017,clean vehicle,31954.0,gray,3n1ab7ap6hy249992,167668549,new jersey, usa,17 hours left
+518,50,chevrolet,door,2008,salvage insurance,172102.0,blue,1g1al58f787159241,167650632,texas, usa,17 hours left
+519,5100,chevrolet,pickup,2004,clean vehicle,173321.0,gray,1gchk23204f232462,167781222,wisconsin, usa,21 hours left
+520,4700,dodge,door,2015,clean vehicle,93423.0,red,3c4pdcgb7ft597655,167660427,georgia, usa,2 days left
+521,29502,ford,f-150,2017,clean vehicle,14053.0,red,1ftfw1eg1hke28907,167765275,michigan, usa,2 days left
+522,0,ford,door,2008,salvage insurance,145483.0,red,1fmcu03128kc80487,167357813,oklahoma, usa,17 hours left
+523,6160,honda,door,2017,clean vehicle,25956.0,white,1hgct1b89ha002933,167702919,virginia, usa,2 days left
+524,10910,jeep,mpv,2019,clean vehicle,12253.0,red,1c4hjxeg8kw651309,167256956,michigan, usa,2 days left
+525,3440,hyundai,doors,2019,clean vehicle,34895.0,gray,3kpc24a34ke050725,167697954,ohio, usa,2 days left
+526,16000,mazda,cx-3,2016,clean vehicle,47753.0,gray,jm1dkbd74g0123647,167608540,florida, usa,2 days left
+527,3810,kia,door,2016,clean vehicle,39408.0,black,kndjx3ae3g7012477,167692796,california, usa,20 hours left
+528,1025,peterbilt,truck,2010,salvage insurance,1017936.0,color:,1xp7d49x0ad793710,167529842,georgia, usa,17 hours left
+529,3020,nissan,doors,2017,clean vehicle,33599.0,white,3n1ab7ap7hy223787,167668550,new jersey, usa,17 hours left
+530,0,chevrolet,door,2003,salvage insurance,194673.0,gray,1gndt13s632267445,167650636,texas, usa,17 hours left
+531,2000,chevrolet,pickup,2003,clean vehicle,507985.0,red,1gcgc24u53z128586,167781223,wisconsin, usa,21 hours left
+532,3870,ford,door,2010,clean vehicle,185983.0,white,1fmcu4k37akb80224,167660491,florida, usa,22 hours left
+533,24811,ford,door,2017,clean vehicle,28464.0,red,1ftew1ep4hfb44546,167765278,michigan, usa,21 hours left
+534,75,ford,door,2007,salvage insurance,154989.0,blue,3fahp06z07r118828,167357820,oklahoma, usa,17 hours left
+535,5420,honda,doors,2017,clean vehicle,16702.0,black,1hgcr2f55ha080596,167702922,virginia, usa,2 days left
+536,11100,jeep,mpv,2019,clean vehicle,11449.0,yellow,1c4hjxegxkw600703,167256957,michigan, usa,2 days left
+537,4750,hyundai,mpv,2019,clean vehicle,25847.0,gray,km8j23a4xku846404,167697955,ohio, usa,2 days left
+538,17900,mercedes-benz,door,2015,clean vehicle,49772.0,gray,wddhf5kbxfb099457,167609333,florida, usa,2 days left
+539,3800,nissan,door,2015,clean vehicle,83915.0,black,1n4al3ap6fc102604,167692884,california, usa,20 hours left
+540,3160,nissan,doors,2017,clean vehicle,40306.0,silver,3n1ab7ap0hy260843,167668551,new jersey, usa,17 hours left
+541,25,chevrolet,pickup,2010,salvage insurance,149189.0,white,3gcrkse37ag234620,167650663,colorado, usa,17 hours left
+542,1200,chevrolet,door,2001,clean vehicle,149543.0,red,2cnbj13c316958216,167781232,wisconsin, usa,21 hours left
+543,6470,chevrolet,coupe,2010,clean vehicle,69622.0,yellow,2g1fk1ejxa9163850,167660492,florida, usa,22 hours left
+544,26400,ford,door,2017,clean vehicle,36295.0,red,1ftew1ef3hfb27101,167765284,michigan, usa,19 hours left
+545,0,gmc,door,1993,salvage insurance,0.0,light blue,1gkfk16k5pj701631,167358601,colorado, usa,18 hours left
+546,32500,gmc,2500hd,2018,clean vehicle,14856.0,blue,1gt12seg2jf255666,167604590,pennsylvania, usa,1 days left
+547,6900,honda,mpv,2017,clean vehicle,44129.0,brown,5j6rw1h81hl005542,167702934,minnesota, usa,18 hours left
+548,11030,jeep,mpv,2019,clean vehicle,10861.0,yellow,1c4hjxeg5kw608448,167256958,michigan, usa,2 days left
+549,3460,hyundai,door,2012,clean vehicle,142106.0,white,5npeb4ac2ch437716,167697983,mississippi, usa,2 days left
+550,18000,mercedes-benz,door,2015,clean vehicle,82411.0,black,4jgda5hb2fa567147,167609334,florida, usa,2 days left
+551,3250,hyundai,door,2015,clean vehicle,111612.0,gray,5npdh4ae3fh644096,167692885,california, usa,20 hours left
+552,3210,nissan,doors,2017,clean vehicle,35251.0,gray,3n1ab7apxhy232807,167668552,new jersey, usa,17 hours left
+553,13200,chevrolet,door,2017,clean vehicle,50408.0,black,2gnflfek3h6342356,167772977,pennsylvania, usa,2 days left
+554,27705,ford,f-150,2019,clean vehicle,15630.0,gray,1ftew1e48kfb37676,167763405,michigan, usa,19 hours left
+555,7200,chevrolet,door,2017,clean vehicle,53273.0,black,1g1bc5sm8h7200200,167772979,pennsylvania, usa,2 days left
+556,28714,ford,f-150,2019,clean vehicle,14786.0,white,1ftfw1e58kfb37772,167763406,michigan, usa,19 hours left
+557,11200,chevrolet,door,2017,clean vehicle,85315.0,white,2gnflfek3h6341370,167772982,pennsylvania, usa,2 days left
+558,27502,ford,f-150,2019,clean vehicle,16146.0,gray,1ftew1e45kfb69856,167763407,michigan, usa,1 minutes
+559,11900,chevrolet,door,2017,clean vehicle,76211.0,blue,2gnflfek5h6341662,167772991,pennsylvania, usa,2 days left
+560,29314,ford,f-150,2019,clean vehicle,15265.0,gray,1ftew1ep6kfb85302,167763410,michigan, usa,19 hours left
+561,11200,chevrolet,door,2017,clean vehicle,79965.0,silver,2gnflfek5h6351639,167772996,pennsylvania, usa,2 days left
+562,27002,ford,f-150,2019,clean vehicle,16059.0,gray,1ftew1e55kfb96628,167763414,michigan, usa,1 minutes
+563,13200,chevrolet,door,2017,clean vehicle,62739.0,black,2gnflfek4h6351292,167773002,pennsylvania, usa,2 days left
+564,28214,ford,f-150,2019,clean vehicle,15569.0,white,1ftfw1e51kfc13333,167763417,michigan, usa,19 hours left
+565,12700,chevrolet,door,2017,clean vehicle,58932.0,black,2gnflfek8h6350288,167773004,pennsylvania, usa,2 days left
+566,29900,ford,f-150,2019,clean vehicle,17488.0,white,1ftfw1e55kfb37583,167763444,michigan, usa,2 days left
+567,12700,chevrolet,door,2017,clean vehicle,60733.0,black,2gnflfek7h6351433,167773005,pennsylvania, usa,2 days left
+568,27202,ford,f-150,2019,clean vehicle,18550.0,red,1ftew1e59kfb37761,167763447,michigan, usa,1 minutes
+569,13500,chevrolet,impala,2018,clean vehicle,53194.0,white,2g1105s3xj9121918,167773137,new jersey, usa,7 hours left
+570,27705,ford,f-150,2019,clean vehicle,17644.0,silver,1ftew1e41kfb70194,167763448,michigan, usa,19 hours left
+571,14700,chevrolet,van,2016,clean vehicle,34454.0,white,1gcwgaff9g1216490,167773216,pennsylvania, usa,2 days left
+572,29900,ford,f-150,2019,clean vehicle,17684.0,white,1ftfw1e5xkfc33564,167763450,michigan, usa,2 days left
+573,4500,chevrolet,door,2015,clean vehicle,83279.0,gray,1g1pc5sb0f7185936,167773417,pennsylvania, usa,21 hours left
+574,27705,ford,f-150,2019,clean vehicle,16600.0,silver,1ftew1e41kfb69644,167763453,michigan, usa,19 hours left
+575,8000,chevrolet,door,2015,clean vehicle,107971.0,gray,1gnkrgkd8fj279098,167773421,pennsylvania, usa,21 hours left
+576,25511,ford,f-150,2019,clean vehicle,17801.0,silver,1ftfw1e43kfb97031,167763454,michigan, usa,19 hours left
+577,7700,chevrolet,colorado,2015,clean vehicle,94150.0,white,1gchsaea7f1213972,167773422,pennsylvania, usa,2 days left
+578,29900,ford,f-150,2019,clean vehicle,17159.0,silver,1ftfw1e53kfc33535,167763457,michigan, usa,2 days left
+579,7200,chevrolet,van,2015,clean vehicle,80711.0,white,3n63m0yn5fk720622,167773430,pennsylvania, usa,2 days left
+580,27502,ford,f-150,2019,clean vehicle,17983.0,red,1ftew1e55kfb69820,167763461,michigan, usa,1 minutes
+581,4500,chevrolet,door,2013,clean vehicle,119981.0,white,1gcncpex7dz328593,167773658,pennsylvania, usa,21 hours left
+582,27402,ford,f-150,2019,clean vehicle,17851.0,white,1ftfw1e52kfb51151,167763463,michigan, usa,1 minutes
+583,1500,chevrolet,sonic,2013,clean vehicle,66079.0,black,1g1jg6sb3d4251006,167773667,pennsylvania, usa,21 hours left
+584,26602,ford,f-150,2019,clean vehicle,18174.0,white,1ftew1e42kfb37902,167763464,michigan, usa,1 minutes
+585,10200,chevrolet,sonic,2019,clean vehicle,7654.0,black,1g1jf5sb0k4122201,167774385,illinois, usa,2 days left
+586,29900,ford,f-150,2019,clean vehicle,18759.0,black,1ftfw1e58kfb69878,167763465,michigan, usa,2 days left
+587,14000,chevrolet,colorado,2019,clean vehicle,11564.0,white,1gchsbea7k1232845,167774390,illinois, usa,2 days left
+588,28500,ford,f-150,2019,clean vehicle,18901.0,silver,1ftew1e50kfb51192,167763509,michigan, usa,19 hours left
+589,8000,chevrolet,door,2016,clean vehicle,86541.0,black,2g1115s37g9109571,167774914,florida, usa,6 days left
+590,29809,ford,f-150,2019,clean vehicle,21157.0,silver,1ftfw1e51kfb70029,167763511,michigan, usa,19 hours left
+591,36900,chevrolet,corvette,2015,clean vehicle,29937.0,black,1g1yj2d7xf5106236,167775622,florida, usa,16 hours left
+592,26902,ford,f-150,2019,clean vehicle,23964.0,white,1ftew1e48kfb37905,167763512,michigan, usa,1 minutes
+593,10950,chevrolet,door,2015,clean vehicle,58504.0,red,2gnalbek5f1140499,167775712,florida, usa,22 hours left
+594,27402,ford,f-150,2019,clean vehicle,20154.0,white,1ftew1e59kfb37727,167763513,michigan, usa,1 minutes
+595,16900,acura,mdx,2014,clean vehicle,63500.0,silver,5fryd3h20eb002546,167775829,florida, usa,1 days left
+596,25600,ford,f-150,2019,clean vehicle,23294.0,silver,1ftew1ep1kfb50960,167763515,michigan, usa,19 hours left
+597,29700,bmw,series,2016,clean vehicle,24293.0,no_color,wba7f2c58gge12300,167775994,texas, usa,1 days left
+598,27702,ford,f-150,2019,clean vehicle,20343.0,red,1ftew1e47kfb69647,167763518,michigan, usa,1 minutes
+599,13500,buick,encore,2016,clean vehicle,19655.0,red,kl4cjbsb4gb700424,167775995,texas, usa,5 hours left
+600,27102,ford,f-150,2019,clean vehicle,19100.0,white,1ftew1e53kfb37982,167763523,michigan, usa,1 minutes
+601,27102,ford,f-150,2019,clean vehicle,20014.0,white,1ftew1e54kfa00453,167763525,michigan, usa,1 minutes
+602,25811,ford,f-150,2019,clean vehicle,21774.0,black,1ftew1e59kfb37887,167763526,michigan, usa,16 minutes
+603,26602,ford,f-150,2019,clean vehicle,21201.0,white,1ftew1e59kfb69755,167763528,michigan, usa,1 minutes
+604,27102,ford,f-150,2019,clean vehicle,21766.0,white,1ftew1e49kfb96784,167763533,michigan, usa,1 minutes
+605,37500,buick,enclave,2019,clean vehicle,12406.0,gray,5gaevbkw8kj293388,167778617,wisconsin, usa,21 hours left
+606,26211,ford,flex,2019,clean vehicle,17977.0,blue,2fmhk6dt1kba21554,167763603,michigan, usa,21 hours left
+607,24205,ford,flex,2019,clean vehicle,22805.0,silver,2fmhk6d80kba19788,167763604,michigan, usa,2 days left
+608,37500,cadillac,xt5,2019,clean vehicle,16013.0,black,1gyknfrs3kz252626,167778629,wisconsin, usa,21 hours left
+609,27111,ford,flex,2019,clean vehicle,14382.0,black,2fmhk6dt2kba21630,167763606,michigan, usa,21 hours left
+610,27411,ford,flex,2019,clean vehicle,9660.0,black,2fmhk6dt1kba21571,167763607,michigan, usa,21 hours left
+611,27302,ford,flex,2019,clean vehicle,18969.0,black,2fmhk6dt2kba19683,167763608,michigan, usa,2 days left
+612,27202,ford,f-150,2019,clean vehicle,24730.0,gray,1ftew1ep2kfb70022,167763609,michigan, usa,1 minutes
+613,26311,ford,flex,2019,clean vehicle,15847.0,red,2fmhk6dt5kba19693,167763612,michigan, usa,21 hours left
+614,26602,ford,f-150,2019,clean vehicle,25009.0,white,1ftew1e55kfb51169,167763613,michigan, usa,1 minutes
+615,33500,bmw,series,2017,clean vehicle,22115.0,blue,wbaja7c31hg905802,167779266,wisconsin, usa,21 hours left
+616,27511,ford,flex,2019,clean vehicle,11836.0,white,2fmhk6dt7kba19548,167763616,michigan, usa,21 hours left
+617,21500,buick,door,2017,clean vehicle,23765.0,red,1g4zp5ss5hu137398,167779269,wisconsin, usa,2 days left
+618,27200,ford,f-150,2019,clean vehicle,25508.0,silver,1ftfw1e40kfb69655,167763620,michigan, usa,20 hours left
+619,26511,ford,flex,2019,clean vehicle,18196.0,red,2fmhk6dt9kba19695,167763622,michigan, usa,21 hours left
+620,24002,ford,flex,2019,clean vehicle,16106.0,gray,2fmhk6c81kba19848,167763726,michigan, usa,2 days left
+621,21500,buick,door,2017,clean vehicle,14907.0,silver,1g4zp5ss6hu125437,167779273,wisconsin, usa,2 days left
+622,18511,ford,fusion,2019,clean vehicle,12735.0,gray,3fa6p0ru0kr211641,167763730,michigan, usa,20 hours left
+623,14000,kia,sorento,2017,clean vehicle,53424.0,black,5xypgda51hg221253,167119104,connecticut, usa,5 hours left
+624,29000,buick,door,2017,clean vehicle,17940.0,green,5gakvckd5hj216221,167779277,illinois, usa,21 hours left
+625,23402,ford,flex,2019,clean vehicle,17417.0,gray,2fmhk6c88kba19846,167763734,michigan, usa,2 days left
+626,13300,kia,door,2017,clean vehicle,37125.0,no_color,5xypgda39hg262132,167119105,connecticut, usa,5 hours left
+627,19700,bmw,x3,2017,clean vehicle,61428.0,black,5uxwx9c51h0t09021,167779278,wisconsin, usa,2 days left
+628,23211,ford,flex,2019,clean vehicle,17025.0,black,2fmhk6c85kba19710,167763742,michigan, usa,21 hours left
+629,15500,kia,sorento,2017,clean vehicle,37668.0,red,5xypgda59hg292944,167119106,connecticut, usa,5 hours left
+630,18111,ford,fusion,2019,clean vehicle,15805.0,black,3fa6p0ruxkr244131,167763743,michigan, usa,20 hours left
+631,21500,kia,sorento,2017,clean vehicle,43761.0,gray,5xypkda50hg299327,167119107,connecticut, usa,5 hours left
+632,25511,ford,mustang,2019,clean vehicle,11342.0,gray,1fatp8uh4k5177265,167763745,michigan, usa,19 hours left
+633,17700,chevrolet,equinox,2017,clean vehicle,35664.0,blue,2gnaldek2h1500410,167779284,wisconsin, usa,21 hours left
+634,28000,chevrolet,cutaway,2017,clean vehicle,12780.0,white,1gb3gtcgxh1118909,167779684,illinois, usa,21 hours left
+635,14000,chevrolet,door,2017,clean vehicle,38458.0,blue,1g1ze5st9hf229260,167779685,wisconsin, usa,21 hours left
+636,21700,chevrolet,door,2017,clean vehicle,34420.0,silver,1gnkvgkd4hj314704,167779686,wisconsin, usa,21 hours left
+637,13500,chevrolet,door,2017,clean vehicle,46497.0,white,1g1ze5stxhf257679,167779687,wisconsin, usa,21 hours left
+638,35500,chevrolet,1500,2017,clean vehicle,21268.0,no_color,3gcuksec0hg271643,167779691,wisconsin, usa,21 hours left
+639,29500,chevrolet,1500,2017,clean vehicle,31029.0,red,3gcukrec7hg170656,167779692,wisconsin, usa,21 hours left
+640,25300,chevrolet,1500,2017,clean vehicle,40878.0,no_color,1gcvkrec8hz169908,167779698,wisconsin, usa,21 hours left
+641,21500,chevrolet,1500,2016,clean vehicle,20270.0,silver,3gcuknec9gg224336,167780069,new jersey, usa,3 days left
+642,25900,chevrolet,door,2016,clean vehicle,32984.0,blue,1gcvkrec8gz393856,167780133,wisconsin, usa,21 hours left
+643,35300,chevrolet,door,2016,clean vehicle,75506.0,black,1gnskckc9gr424401,167780134,wisconsin, usa,21 hours left
+644,13500,chevrolet,door,2016,clean vehicle,39951.0,red,1g1bg5sm5g7250863,167780135,wisconsin, usa,21 hours left
+645,62000,chevrolet,corvette,2016,clean vehicle,19403.0,white,1g1yt2d6xg5612796,167780136,illinois, usa,21 hours left
+646,46000,chevrolet,corvette,2016,clean vehicle,4445.0,black,1g1yj2d70g5122320,167780138,illinois, usa,2 days left
+647,9000,chevrolet,malibu,2016,clean vehicle,67527.0,gray,1g1zj5su8gf337274,167780142,wisconsin, usa,21 hours left
+648,25900,chevrolet,door,2016,clean vehicle,33588.0,white,1gcvkrec7gz392164,167780143,wisconsin, usa,21 hours left
+649,25800,chevrolet,door,2016,clean vehicle,10103.0,no_color,1gcvkpec7gz283370,167780146,wisconsin, usa,21 hours left
+650,17000,chevrolet,door,2016,clean vehicle,26474.0,gray,2gnaldek7g6323080,167780152,wisconsin, usa,21 hours left
+651,12800,chevrolet,door,2016,clean vehicle,40253.0,white,1g1ze5st5gf315602,167780153,wisconsin, usa,21 hours left
+652,47400,chevrolet,3500,2016,clean vehicle,39624.0,red,1gc4k0c84gf121926,167780154,wisconsin, usa,21 hours left
+653,24400,chevrolet,door,2016,clean vehicle,48705.0,gray,1gnkvjkd3gj171692,167780194,wisconsin, usa,21 hours left
+654,17100,chevrolet,trax,2016,clean vehicle,19659.0,white,kl7cjrsb9gb542870,167780202,wisconsin, usa,2 days left
+655,7400,chevrolet,door,2015,clean vehicle,91299.0,no_color,1g11c5sl8ff311156,167780454,wisconsin, usa,21 hours left
+656,33100,chevrolet,door,2015,clean vehicle,81614.0,gold,1gnskckc5fr181703,167780467,wisconsin, usa,2 days left
+657,22000,chevrolet,trax,2020,clean vehicle,179.0,gray,3gncjksbxll181398,167781406,california, usa,21 hours left
+658,35000,chevrolet,1500,2019,clean vehicle,5523.0,no_color,3gcpwaef0kg291601,167781597,california, usa,2 days left
+659,16500,chevrolet,equinox,2019,clean vehicle,29841.0,silver,2gnaxkev6k6186886,167781598,california, usa,21 hours left
+660,35300,chevrolet,1500,2019,clean vehicle,8516.0,silver,1gcuwded5kz124282,167781608,california, usa,21 hours left
+661,26900,chevrolet,traverse,2018,clean vehicle,42941.0,black,1gnevhkw8jj148388,167781794,missouri, usa,19 hours left
+662,11600,chevrolet,trax,2017,clean vehicle,27498.0,black,3gncjksb6hl148082,167782868,california, usa,21 hours left
+663,28100,chevrolet,1500,2017,clean vehicle,31141.0,silver,1gcpcrec9hf242498,167782874,california, usa,21 hours left
+664,27700,chevrolet,1500,2017,clean vehicle,20784.0,white,1gcvkrec1hz135955,167782875,california, usa,21 hours left
+665,17700,chevrolet,passenger,2017,clean vehicle,52667.0,white,1gazgpfg0h1169059,167782876,california, usa,21 hours left
+666,16600,chevrolet,volt,2017,clean vehicle,26003.0,no_color,1g1rc6s56hu177143,167782989,california, usa,21 hours left
+667,63200,chevrolet,corvette,2016,clean vehicle,4266.0,red,1g1ys2d6xg5609979,167783470,california, usa,2 days left
+668,36800,chevrolet,door,2015,clean vehicle,32332.0,white,1gc1kweg8ff170135,167783952,california, usa,21 hours left
+669,19500,chevrolet,passenger,2018,clean vehicle,44333.0,white,1gazgpfg7j1254194,167786867,texas, usa,1 days left
+670,38800,chevrolet,tahoe,2019,clean vehicle,36198.0,blue,1gnskbkc0kr335691,167787086,oklahoma, usa,21 hours left
+671,37500,chevrolet,tahoe,2019,clean vehicle,33331.0,silver,1gnskbkc1kr164515,167787087,oklahoma, usa,21 hours left
+672,35000,chevrolet,suburban,2019,clean vehicle,43082.0,gray,1gnskhkcxkr306962,167787091,oklahoma, usa,21 hours left
+673,31100,chevrolet,camaro,2019,clean vehicle,24561.0,gray,1g1fh1r7xk0140397,167787092,oklahoma, usa,21 hours left
+674,22600,chevrolet,van,2019,clean vehicle,13485.0,white,1gcwgafgxk1242467,167787096,oklahoma, usa,21 hours left
+675,22400,chevrolet,van,2019,clean vehicle,15524.0,white,1gcwgafg5k1221297,167787099,oklahoma, usa,21 hours left
+676,22700,chevrolet,van,2019,clean vehicle,8996.0,white,1gcwgafg9k1240337,167787101,oklahoma, usa,21 hours left
+677,13700,chevrolet,malibu,2019,clean vehicle,47282.0,silver,1g1zd5st4kf126371,167787112,oklahoma, usa,21 hours left
+678,37100,chevrolet,suburban,2019,clean vehicle,34470.0,black,1gnskhkcxkr288236,167787113,oklahoma, usa,21 hours left
+679,18500,chevrolet,colorado,2018,clean vehicle,87264.0,green,1gcgtcen5j1157983,167787277,oregon, usa,34 minutes
+680,18300,chevrolet,2500,2017,clean vehicle,114344.0,white,1gc2kveg3hz159933,167787341,oregon, usa,34 minutes
+681,19000,chevrolet,2500,2017,clean vehicle,111635.0,white,1gc2kveg1hz262672,167787345,oregon, usa,34 minutes
+682,18500,chevrolet,1500,2017,clean vehicle,103955.0,white,3gcukrec0hg249327,167787357,oregon, usa,34 minutes
+683,22500,chevrolet,door,2016,clean vehicle,66640.0,white,3gcukrec5gg277008,167787423,oregon, usa,34 minutes
+684,14500,chevrolet,door,2014,clean vehicle,122018.0,white,3gcukrec6eg373324,167787612,oregon, usa,34 minutes
+685,32800,chevrolet,tahoe,2018,clean vehicle,46915.0,gray,1gnskbkc9jr370082,167787953,oklahoma, usa,21 hours left
+686,12300,chevrolet,malibu,2018,clean vehicle,53599.0,black,1g1zd5stxjf140841,167787955,oklahoma, usa,21 hours left
+687,19600,chevrolet,1500,2018,clean vehicle,41672.0,gray,1gcvkreh7jz295386,167787956,oklahoma, usa,21 hours left
+688,13600,chevrolet,malibu,2018,clean vehicle,36047.0,white,1g1zd5st5jf249837,167787964,oklahoma, usa,21 hours left
+689,7200,chevrolet,spark,2018,clean vehicle,42561.0,red,kl8cb6sa3jc459211,167787965,oklahoma, usa,21 hours left
+690,19900,chevrolet,1500,2018,clean vehicle,40345.0,white,1gcvkreh3jz272445,167787966,oklahoma, usa,21 hours left
+691,13000,chevrolet,malibu,2018,clean vehicle,41751.0,gray,1g1zd5st8jf242655,167787968,oklahoma, usa,21 hours left
+692,19700,chevrolet,door,2016,clean vehicle,27593.0,white,1gcvkrec0gz118434,167788074,oklahoma, usa,21 hours left
+693,9400,chevrolet,door,2017,clean vehicle,24009.0,blue,1g1be5sm4h7275597,167788079,oklahoma, usa,21 hours left
+694,23800,chevrolet,1500,2017,clean vehicle,85697.0,white,3gcukrecxhg319917,167788094,oklahoma, usa,21 hours left
+695,17700,chevrolet,equinox,2019,clean vehicle,25223.0,white,3gnaxuev8ks588177,167788101,new york, usa,18 hours left
+696,17000,chevrolet,door,2015,clean vehicle,27927.0,white,2g1ff1e3xf9185411,167788243,oklahoma, usa,21 hours left
+697,14000,chevrolet,door,2014,clean vehicle,135127.0,red,3gcpcreh4eg204053,167789010,florida, usa,2 days left
+698,32100,chevrolet,2500,2018,clean vehicle,55532.0,white,1gc1kvey2jf198038,167789500,pennsylvania, usa,21 hours left
+699,33100,chevrolet,2500,2019,clean vehicle,72172.0,white,1gc1ksey8kf114255,167789506,pennsylvania, usa,21 hours left
+700,31600,chevrolet,2500,2018,clean vehicle,57751.0,white,1gc1kvey3jf197819,167789507,pennsylvania, usa,21 hours left
+701,5100,chevrolet,door,2013,clean vehicle,96314.0,gray,3gnal3ek3ds630172,167789808,pennsylvania, usa,21 hours left
+702,4100,chevrolet,door,2013,clean vehicle,89152.0,blue,1g1pa5sgxd7225194,167789821,pennsylvania, usa,21 hours left
+703,7200,chevrolet,door,2014,clean vehicle,114660.0,silver,2gnflfek5e6237636,167790442,texas, usa,6 hours left
+704,12800,chevrolet,1500,2014,clean vehicle,177322.0,white,3gcuksej4eg356687,167790463,texas, usa,7 hours left
+705,46800,chevrolet,1500,2019,clean vehicle,36423.0,gray,1gcuyhel9kz240206,167790796,nebraska, usa,21 hours left
+706,21800,chevrolet,van,2019,clean vehicle,23759.0,white,1gcwgafg7k1222516,167790802,missouri, usa,21 hours left
+707,3000,chevrolet,door,2013,clean vehicle,120667.0,gray,1g1jc6sh6d4127084,167790930,texas, usa,9 days left
+708,22500,chevrolet,colorado,2017,clean vehicle,65344.0,red,1gcgtcen1h1148658,167791423,indiana, usa,2 days left
+709,35300,chevrolet,suburban,2018,clean vehicle,51347.0,black,1gnskhkc5jr243896,167791881,missouri, usa,21 hours left
+710,16500,chevrolet,volt,2017,clean vehicle,52322.0,black,1g1rd6s59hu201853,167792181,oklahoma, usa,21 hours left
+711,33000,chevrolet,door,2017,clean vehicle,67620.0,black,1gnskbkc6hr132085,167792186,missouri, usa,2 days left
+712,31500,chevrolet,1500,2017,clean vehicle,59965.0,black,3gcuktec6hg222226,167792192,missouri, usa,2 days left
+713,34500,chevrolet,1500,2017,clean vehicle,28739.0,silver,3gcuksec3hg222744,167792196,missouri, usa,2 days left
+714,8000,chevrolet,trax,2016,clean vehicle,77429.0,silver,kl7cjpsb3gb750120,167792654,west virginia, usa,2 days left
+715,25000,chevrolet,1500,2017,clean vehicle,20847.0,white,3gcukrec6hg356561,167792660,west virginia, usa,21 hours left
+716,10700,chevrolet,trax,2016,clean vehicle,44280.0,red,3gncjnsb1gl264970,167792666,west virginia, usa,2 days left
+717,13400,chevrolet,door,2016,clean vehicle,86031.0,silver,2g1145s39g9185641,167792677,west virginia, usa,2 days left
+718,16500,chevrolet,equinox,2019,clean vehicle,7622.0,gold,2gnaxhev8k6108774,167792678,west virginia, usa,2 days left
+719,34000,chevrolet,traverse,2019,clean vehicle,8067.0,white,1gnevhkw9kj129253,167792679,west virginia, usa,2 days left
+720,14100,chevrolet,trax,2018,clean vehicle,16502.0,white,kl7cjpsbxjb710284,167792685,west virginia, usa,2 days left
+721,38600,chevrolet,1500,2019,clean vehicle,20681.0,black,1gcuyged0kz114660,167792700,west virginia, usa,2 days left
+722,9100,chevrolet,door,2016,clean vehicle,54655.0,blue,1g1pe5sb4g7168780,167792789,missouri, usa,21 hours left
+723,8600,chevrolet,door,2016,clean vehicle,57825.0,blue,1g1pe5sb1g7193233,167792796,missouri, usa,21 hours left
+724,22000,chevrolet,door,2016,clean vehicle,58856.0,white,3gcpcrec6gg235750,167792906,oklahoma, usa,21 hours left
+725,8900,chevrolet,colorado,2015,clean vehicle,85072.0,white,1gchsaea3f1218425,167793027,west virginia, usa,2 days left
+726,15500,chevrolet,door,2015,clean vehicle,79506.0,red,1gcrcpehxfz272176,167793029,west virginia, usa,2 days left
+727,3300,chevrolet,door,2015,clean vehicle,85301.0,silver,1g1pg5sbxf7249436,167793038,west virginia, usa,2 days left
+728,29000,chevrolet,1500,2015,clean vehicle,69377.0,brown,3gcuksej3fg195122,167793216,missouri, usa,2 days left
+729,17300,chevrolet,equinox,2020,clean vehicle,15577.0,black,3gnaxkev2ll125886,167796069,nevada, usa,2 days left
+730,30500,chevrolet,traverse,2020,clean vehicle,23470.0,silver,1gnerhkw7lj115518,167796080,nevada, usa,2 days left
+731,25000,chevrolet,impala,2020,clean vehicle,18715.0,silver,1g1105s31lu100901,167796081,nevada, usa,6 hours left
+732,2800,chevrolet,cruze,2012,clean vehicle,61258.0,white,1g1pl5sc7c7367895,167723306,illinois, usa,21 hours left
+733,3300,chevrolet,door,2012,clean vehicle,131791.0,no_color,1gnkvjedxcj172991,167723310,illinois, usa,21 hours left
+734,36400,chevrolet,suburban,2019,clean vehicle,35705.0,silver,1gnskhkcxkr139079,167796192,nevada, usa,2 days left
+735,34800,chevrolet,suburban,2019,clean vehicle,48982.0,silver,1gnskhkc2kr158368,167796193,nevada, usa,2 days left
+736,20700,chevrolet,ld,2019,clean vehicle,33745.0,white,2gcrcpec4k1155751,167796194,nevada, usa,2 days left
+737,32200,chevrolet,suburban,2019,clean vehicle,42267.0,silver,1gnschkc9kr204131,167796196,nevada, usa,2 days left
+738,35300,chevrolet,tahoe,2019,clean vehicle,46863.0,black,1gnskbkc9kr143993,167796197,nevada, usa,2 days left
+739,33500,chevrolet,suburban,2019,clean vehicle,36443.0,white,1gnschkc2kr124931,167796200,nevada, usa,2 days left
+740,13700,chevrolet,impala,2019,clean vehicle,14939.0,blue,2g11z5s30k9137729,167796203,nevada, usa,9 minutes
+741,15900,chevrolet,malibu,2019,clean vehicle,22026.0,black,1g1zd5st0kf187281,167796205,nevada, usa,1 hours left
+742,33200,chevrolet,suburban,2019,clean vehicle,38278.0,black,1gnschkc9kr201844,167796206,nevada, usa,2 days left
+743,35500,chevrolet,suburban,2019,clean vehicle,46149.0,silver,1gnskhkc1kr203879,167796209,nevada, usa,2 days left
+744,29800,chevrolet,suburban,2018,clean vehicle,48427.0,silver,1gnschkc6jr106222,167798080,nevada, usa,2 days left
+745,29800,chevrolet,suburban,2018,clean vehicle,48807.0,gray,1gnschkc1jr387653,167798092,nevada, usa,2 days left
+746,29500,chevrolet,suburban,2018,clean vehicle,52618.0,silver,1gnschkc1jr235923,167798097,nevada, usa,2 days left
+747,30300,chevrolet,suburban,2018,clean vehicle,46494.0,white,1gnschkc5jr280816,167798100,nevada, usa,2 days left
+748,24300,chevrolet,1500,2018,clean vehicle,56296.0,black,3gcukreh2jg284677,167798290,new york, usa,18 hours left
+749,29800,chevrolet,suburban,2017,clean vehicle,33909.0,silver,1gnschkc4hr206149,167798808,nevada, usa,2 days left
+750,29800,chevrolet,suburban,2017,clean vehicle,33028.0,white,1gnschkc3hr133923,167798818,nevada, usa,2 days left
+751,27500,chevrolet,camaro,2016,clean vehicle,44653.0,white,1g1fh1r79g0149647,167799194,nevada, usa,Listing Expired
+752,10800,chevrolet,door,2017,clean vehicle,80516.0,gray,2gnfleek2h6351253,167799346,new jersey, usa,18 hours left
+753,11500,chevrolet,van,2017,clean vehicle,105151.0,white,1gcwgaff8h1120366,167799354,new jersey, usa,18 hours left
+754,10400,chevrolet,van,2017,clean vehicle,78368.0,white,3n63m0yn6hk696088,167799356,new jersey, usa,18 hours left
+755,11400,chevrolet,equinox,2018,clean vehicle,78956.0,white,2gnaxsevxj6292207,167799451,florida, usa,Listing Expired
+756,11400,chevrolet,equinox,2018,clean vehicle,88564.0,white,2gnaxsev1j6218321,167799460,florida, usa,Listing Expired
+757,8000,chevrolet,door,2015,clean vehicle,78800.0,white,1g11b5sl5ff135735,167799518,nevada, usa,Listing Expired
+758,3000,chevrolet,door,2012,clean vehicle,111856.0,white,1gccsbf92c8121126,167733652,california, usa,5 hours left
+759,25000,chevrolet,door,2015,clean vehicle,80946.0,black,3gcuksec6fg382971,167799527,nevada, usa,Listing Expired
+760,12300,chevrolet,traverse,2017,clean vehicle,83168.0,gray,1gnkrfed3hj217603,167799559,new york, usa,18 hours left
+761,14100,chevrolet,traverse,2017,clean vehicle,58606.0,white,1gnkrfed7hj307708,167799560,new york, usa,18 hours left
+762,9000,chevrolet,van,2014,clean vehicle,82020.0,white,1gcsgafx9e1173192,167799763,nevada, usa,9 minutes
+763,4200,chevrolet,door,2014,clean vehicle,102500.0,black,1g1p75sz3e7332279,167799775,nevada, usa,2 days left
+764,22500,chevrolet,van,2019,clean vehicle,8150.0,white,1gcwgafg5k1229335,167799922,texas, usa,2 days left
+765,22600,chevrolet,van,2019,clean vehicle,6159.0,white,1gcwgafg1k1229638,167799926,texas, usa,2 days left
+766,22600,chevrolet,van,2019,clean vehicle,5938.0,white,1gcwgafg2k1222357,167799930,texas, usa,2 days left
+767,22500,chevrolet,van,2019,clean vehicle,9019.0,white,1gcwgafg3k1232427,167799936,texas, usa,2 days left
+768,10200,chevrolet,malibu,2018,clean vehicle,45836.0,white,1g1zd5stxjf175198,167800168,texas, usa,2 days left
+769,42700,chevrolet,3500,2016,clean vehicle,60215.0,white,1gc4k1e88gf118806,167800375,texas, usa,2 days left
+770,21200,chevrolet,tahoe,2015,clean vehicle,125507.0,white,1gnscckc9fr715640,167800438,texas, usa,2 days left
+771,22700,chevrolet,door,2016,clean vehicle,90944.0,white,1gnscbkc6gr432916,167800443,texas, usa,2 days left
+772,22000,chevrolet,tahoe,2015,clean vehicle,82785.0,gray,1gnscakc0fr161697,167800450,texas, usa,2 days left
+773,9600,chevrolet,1500,2014,clean vehicle,150525.0,white,3gcpcpeh2eg231868,167800600,texas, usa,2 days left
+774,10500,chevrolet,door,2013,clean vehicle,112267.0,silver,1gcrcrea5dz179299,167800641,texas, usa,2 days left
+775,6700,chevrolet,door,2013,clean vehicle,139394.0,white,1gb3czcg3df161404,167800646,texas, usa,2 days left
+776,14200,chevrolet,door,2013,clean vehicle,82543.0,black,3gcpcse09dg282246,167800650,texas, usa,2 days left
+777,15500,chevrolet,equinox,2019,clean vehicle,13532.0,white,2gnaxkev1k6296972,167801090,florida, usa,6 hours left
+778,35100,chevrolet,1500,2018,clean vehicle,14751.0,blue,3gcukrec2jg216609,167801202,kansas, usa,2 days left
+779,26300,chevrolet,camaro,2018,clean vehicle,11150.0,gray,1g1fb1rx5j0103693,167801223,kansas, usa,2 days left
+780,15700,chevrolet,colorado,2016,clean vehicle,91248.0,white,1gcgtce36g1387412,167801228,new jersey, usa,18 hours left
+781,17600,chevrolet,1500,2016,clean vehicle,65336.0,white,1gcvkneh3gz336629,167801344,new jersey, usa,18 hours left
+782,18600,chevrolet,1500,2016,clean vehicle,48974.0,white,1gcvkneh7gz158854,167801351,new jersey, usa,18 hours left
+783,19100,chevrolet,1500,2016,clean vehicle,40011.0,white,1gcvkneh1gz235878,167801359,new jersey, usa,18 hours left
+784,15200,chevrolet,equinox,2019,clean vehicle,37444.0,black,2gnaxkev2k6183550,167801831,north carolina, usa,2 days left
+785,16100,chevrolet,equinox,2019,clean vehicle,43199.0,white,2gnaxuev0k6196714,167801832,north carolina, usa,2 days left
+786,14800,chevrolet,equinox,2019,clean vehicle,43589.0,charcoal,2gnaxkevxk6199639,167801834,north carolina, usa,2 days left
+787,16700,chevrolet,equinox,2019,clean vehicle,32870.0,charcoal,2gnaxuev8k6190062,167801835,north carolina, usa,2 days left
+788,15300,chevrolet,equinox,2019,clean vehicle,38826.0,charcoal,2gnaxkev7k6197637,167801836,north carolina, usa,2 days left
+789,16500,chevrolet,equinox,2019,clean vehicle,33739.0,charcoal,2gnaxuev3k6169765,167801838,north carolina, usa,2 days left
+790,19600,chevrolet,passenger,2019,clean vehicle,35309.0,white,1gazgpfgxk1197071,167801927,north carolina, usa,2 days left
+791,15200,chevrolet,impala,2019,clean vehicle,32248.0,red,1g11z5sa4ku113760,167801930,north carolina, usa,2 days left
+792,15000,chevrolet,impala,2019,clean vehicle,36165.0,silver,1g11z5sa7ku117222,167801932,north carolina, usa,2 days left
+793,15500,chevrolet,impala,2019,clean vehicle,29922.0,charcoal,2g11z5saxk9120208,167801934,north carolina, usa,2 days left
+794,15700,chevrolet,impala,2019,clean vehicle,26848.0,silver,2g11z5sa5k9140950,167801935,north carolina, usa,2 days left
+795,14800,chevrolet,impala,2019,clean vehicle,41163.0,charcoal,2g11z5sa8k9139310,167801936,north carolina, usa,2 days left
+796,9200,chevrolet,cruze,2017,clean vehicle,32856.0,red,3g1be6sm0hs561566,167802090,north carolina, usa,2 days left
+797,8200,chevrolet,impala,2017,clean vehicle,100315.0,black,1g1105sa9hu160835,167802211,north carolina, usa,2 days left
+798,11400,chevrolet,door,2013,clean vehicle,91638.0,silver,1gc2kvcg8dz256073,167803268,new jersey, usa,18 hours left
+799,6500,chevrolet,door,2015,clean vehicle,83173.0,white,1g11c5sl0ff208474,167803692,north carolina, usa,2 days left
+800,11500,chevrolet,door,2014,clean vehicle,94356.0,gray,1gnkvgkd3ej113338,167803935,north carolina, usa,2 days left
+801,23800,chevrolet,door,2015,clean vehicle,85792.0,black,1gnscbkc0fr109217,167804275,florida, usa,2 hours left
+802,8900,chevrolet,door,2014,clean vehicle,129068.0,white,1gnkrgkd3ej285342,167804714,florida, usa,1 hours left
+803,28300,chevrolet,ld,2019,clean vehicle,27665.0,red,2gcvkpec1k1124569,167805479,indiana, usa,2 days left
+804,27300,chevrolet,ld,2019,clean vehicle,25427.0,black,2gcvkpec4k1105269,167805483,indiana, usa,2 days left
+805,3500,chevrolet,door,2013,clean vehicle,78198.0,gray,1g11c5saxdf350889,167617243,new jersey, usa,7 days left
+806,28300,chevrolet,colorado,2020,clean vehicle,13886.0,silver,1gcgtcen7l1101496,167805497,indiana, usa,2 days left
+807,18300,chevrolet,impala,2019,clean vehicle,34538.0,silver,2g11z5s37k9134455,167805500,indiana, usa,2 days left
+808,22500,dodge,charger,2018,clean vehicle,20575.0,silver,2c3cdxjg1jh292507,167766487,wisconsin, usa,2 days left
+809,22500,dodge,charger,2018,clean vehicle,26026.0,gray,2c3cdxjg4jh292503,167766491,wisconsin, usa,4 days left
+810,8300,dodge,door,2012,clean vehicle,99015.0,gray,1c6rd7ft0cs326533,167766587,wisconsin, usa,1 days left
+811,16500,dodge,caravan,2019,clean vehicle,27327.0,gray,2c4rdgeg4kr682965,167766650,nebraska, usa,5 hours left
+812,14500,dodge,journey,2019,clean vehicle,30229.0,silver,3c4pdcgg9kt700676,167766667,nebraska, usa,5 hours left
+813,30000,dodge,charger,2019,clean vehicle,43294.0,white,2c3cdxjg2kh630921,167766742,ontario, canada,10 days left
+814,30000,dodge,charger,2019,clean vehicle,54309.0,orange,2c3cdxjg0kh682158,167766743,ontario, canada,10 days left
+815,30000,dodge,charger,2019,clean vehicle,52822.0,white,2c3cdxjg2kh658962,167766751,ontario, canada,10 days left
+816,30000,dodge,charger,2019,clean vehicle,45554.0,white,2c3cdxjg1kh630912,167766757,ontario, canada,10 days left
+817,30000,dodge,charger,2019,clean vehicle,37538.0,white,2c3cdxjg1kh658953,167766758,ontario, canada,10 days left
+818,29500,dodge,charger,2019,clean vehicle,35153.0,red,2c3cdxjg6kh630954,167766763,ontario, canada,10 days left
+819,21600,dodge,challenger,2019,clean vehicle,23783.0,white,2c3cdzgg2kh594165,167767030,washington, usa,2 days left
+820,22600,dodge,charger,2019,clean vehicle,30759.0,black,2c3cdxhg2kh608648,167767044,washington, usa,2 days left
+821,16300,dodge,caravan,2019,clean vehicle,38922.0,gray,2c4rdgcg5kr518563,167767063,washington, usa,2 days left
+822,8600,dodge,door,2012,clean vehicle,165836.0,blue,1c6rd7ht8cs279667,167767147,washington, usa,2 days left
+823,28800,dodge,durango,2019,clean vehicle,19235.0,no_color,1c4rdhdg4kc769457,167767327,texas, usa,21 hours left
+824,22100,dodge,challenger,2019,clean vehicle,9445.0,gray,2c3cdzag4kh686869,167767331,texas, usa,21 hours left
+825,14300,dodge,journey,2018,clean vehicle,19164.0,gray,3c4pdcab2jt216649,167717039,north carolina, usa,21 hours left
+826,13700,dodge,caravan,2018,clean vehicle,54106.0,white,2c4rdgeg6jr205887,167718054,north carolina, usa,21 hours left
+827,29500,dodge,challenger,2017,clean vehicle,32051.0,no_color,2c3cdzfj5hh650508,167768040,arizona, usa,21 hours left
+828,18500,dodge,journey,2017,clean vehicle,14870.0,gray,3c4pddeg4ht608652,167768048,texas, usa,21 hours left
+829,19000,dodge,door,2016,clean vehicle,32294.0,blue,2c3cdxjg0gh303988,167768759,colorado, usa,21 hours left
+830,43400,dodge,challenger,2015,clean vehicle,7250.0,white,2c3cdzc99fh713682,167769093,arizona, usa,2 days left
+831,46000,dodge,challenger,2015,clean vehicle,10145.0,no_color,2c3cdzfj8fh877821,167769114,arizona, usa,21 hours left
+832,12500,dodge,journey,2018,clean vehicle,59924.0,silver,3c4pdcgg1jt257213,167769598,texas, usa,2 days left
+833,13900,dodge,charger,2017,clean vehicle,21304.0,black,2c3cdxbg5hh642083,167770062,florida, usa,1 days left
+834,13000,dodge,caravan,2018,clean vehicle,52079.0,white,2c4rdgegxjr339012,167724265,california, usa,1 days left
+835,13000,dodge,caravan,2018,clean vehicle,54960.0,white,2c4rdgcg2jr205677,167724266,california, usa,1 days left
+836,3000,dodge,door,2013,clean vehicle,80099.0,white,1c3cdzcb6dn599101,167770820,texas, usa,19 hours left
+837,17500,dodge,caravan,2019,clean vehicle,23987.0,black,2c4rdgcgxkr751032,167770910,florida, usa,2 days left
+838,7900,dodge,door,2017,clean vehicle,84144.0,gray,3c4pdcbg0ht518476,167771302,california, usa,2 days left
+839,8900,dodge,door,2014,clean vehicle,85639.0,blue,2c3cdxbg5eh300547,167771550,florida, usa,1 days left
+840,11500,dodge,caravan,2018,clean vehicle,50193.0,no_color,2c4rdgcg8jr208468,167772963,pennsylvania, usa,21 hours left
+841,6500,dodge,journey,2017,clean vehicle,74392.0,black,3c4pdcab8ht507652,167772985,pennsylvania, usa,21 hours left
+842,8000,dodge,door,2017,clean vehicle,76117.0,black,3c4pdcgb7ht525941,167772989,pennsylvania, usa,21 hours left
+843,18700,dodge,challenger,2018,clean vehicle,36358.0,gray,2c3cdzag5jh245542,167773134,new jersey, usa,Listing Expired
+844,8350,dodge,journey,2017,clean vehicle,90685.0,white,3c4pddbg6ht592197,167773188,florida, usa,13 days left
+845,27900,dodge,charger,2017,clean vehicle,54141.0,orange,2c3cdxctxhh618731,167773190,florida, usa,2 days left
+846,14500,dodge,door,2016,clean vehicle,82240.0,white,1c4rdjag5gc486469,167773290,pennsylvania, usa,21 hours left
+847,6200,dodge,door,2016,clean vehicle,66167.0,silver,1c3cdfbb6gd515496,167773297,pennsylvania, usa,2 days left
+848,7500,dodge,door,2012,clean vehicle,144220.0,gray,1c6rd7ft6cs238912,167773764,pennsylvania, usa,21 hours left
+849,20200,dodge,caravan,2019,clean vehicle,24722.0,black,2c4rdgdg0kr571878,167774394,illinois, usa,20 hours left
+850,29300,dodge,durango,2019,clean vehicle,41198.0,silver,1c4sdjct2kc576022,167774395,illinois, usa,20 hours left
+851,31000,dodge,durango,2019,clean vehicle,26353.0,black,1c4sdjct5kc738497,167774400,illinois, usa,24 hours left
+852,32400,dodge,durango,2019,clean vehicle,28280.0,white,1c4sdjctxkc691872,167774401,illinois, usa,1 days left
+853,5800,dodge,door,2012,clean vehicle,130120.0,white,3c6jd6dtxcg183219,167774684,minnesota, usa,5 hours left
+854,21500,dodge,charger,2019,clean vehicle,15340.0,black,2c3cdxbg8kh658222,167777309,texas, usa,19 hours left
+855,23100,dodge,charger,2018,clean vehicle,12265.0,silver,2c3cdxjgxjh222262,167735423,michigan, usa,21 hours left
+856,4500,dodge,van,2014,clean vehicle,94872.0,gray,2c4rdgcg3er266428,167777525,texas, usa,19 hours left
+857,24800,dodge,charger,2018,clean vehicle,17946.0,silver,2c3cdxjg6jh182178,167735434,michigan, usa,21 hours left
+858,23000,dodge,charger,2018,clean vehicle,26996.0,gray,2c3cdxjg7jh189253,167735435,michigan, usa,21 hours left
+859,26900,dodge,journey,2019,clean vehicle,5775.0,gray,3c4pddbg3kt708835,167778592,wisconsin, usa,21 hours left
+860,21500,dodge,challenger,2018,clean vehicle,6748.0,gray,2c3cdzag8jh321934,167778953,wisconsin, usa,2 days left
+861,15700,dodge,journey,2018,clean vehicle,38128.0,white,3c4pdcgg2jt378879,167778956,wisconsin, usa,21 hours left
+862,15200,dodge,caravan,2018,clean vehicle,41636.0,silver,2c4rdgcg8jr327542,167778960,wisconsin, usa,21 hours left
+863,23300,dodge,charger,2018,clean vehicle,5359.0,blue,2c3cdxbgxjh273288,167778965,wisconsin, usa,2 days left
+864,6100,dodge,door,2015,clean vehicle,70296.0,white,1c3cdfbb3fd213551,167779186,minnesota, usa,6 days left
+865,20000,dodge,journey,2017,clean vehicle,11346.0,green,3c4pddgg6ht556180,167779694,wisconsin, usa,21 hours left
+866,53000,dodge,challenger,2017,clean vehicle,7415.0,no_color,2c3cdzc98hh553913,167779700,illinois, usa,21 hours left
+867,3000,dodge,door,2013,clean vehicle,107593.0,orange,1c3cdfcb9dd329946,167779844,minnesota, usa,6 days left
+868,18200,dodge,door,2016,clean vehicle,50639.0,black,2c3cdxct3gh355660,167780126,new jersey, usa,7 hours left
+869,21800,dodge,challenger,2019,clean vehicle,6530.0,gray,2c3cdzbt8kh705158,167456189,arizona, usa,2 days left
+870,52000,dodge,charger,2016,clean vehicle,17432.0,blue,2c3cdxl92gh285329,167780193,illinois, usa,2 days left
+871,19000,dodge,charger,2019,clean vehicle,19636.0,black,2c3cdxhg6kh598321,167456192,arizona, usa,2 days left
+872,25000,dodge,challenger,2016,clean vehicle,41748.0,no_color,2c3cdzbt4gh325869,167780200,illinois, usa,2 days left
+873,36000,dodge,challenger,2016,clean vehicle,13162.0,red,2c3cdzfj8gh351982,167780204,illinois, usa,2 days left
+874,17000,dodge,caravan,2019,clean vehicle,32937.0,white,2c4rdgegxkr599122,167469885,georgia, usa,8 days left
+875,25300,dodge,door,2015,clean vehicle,23095.0,red,1c4rdjeg3fc112029,167780468,wisconsin, usa,21 hours left
+876,14900,dodge,journey,2017,clean vehicle,34432.0,gray,3c4pddeg9ht565166,167473054,wisconsin, usa,22 hours left
+877,15000,dodge,caravan,2017,clean vehicle,48162.0,no_color,2c4rdgeg8hr632871,167473055,wisconsin, usa,21 hours left
+878,12995,dodge,doors,2014,clean vehicle,68310.0,gray,2c3cdyag9eh126828,167477459,massachusetts, usa,8 days left
+879,17750,dodge,doors,2014,clean vehicle,48000.0,black,2c3cdybt2eh298212,167477460,massachusetts, usa,8 days left
+880,10295,dodge,doors,2014,clean vehicle,105962.0,black,2c3cdyag3eh213138,167477461,pennsylvania, usa,8 days left
+881,16995,dodge,doors,2014,clean vehicle,96575.0,gray,2c3cdybt3eh136783,167477462,connecticut, usa,8 days left
+882,25000,dodge,doors,2014,clean vehicle,13239.0,toreador red,2c3cdybt5eh217218,167477463,new york, usa,8 days left
+883,23995,dodge,doors,2014,clean vehicle,24934.0,bright white clearcoat,2c3cdybt3eh115268,167477464,rhode island, usa,8 days left
+884,14900,dodge,doors,2014,clean vehicle,46859.0,billet silver metallic clearcoat,2c3cdyag6eh133624,167477465,new jersey, usa,8 days left
+885,15810,dodge,doors,2014,clean vehicle,44468.0,black clearcoat,2c3cdyag9eh313809,167477466,new york, usa,8 days left
+886,20227,dodge,doors,2014,clean vehicle,62230.0,jazz blue pearlcoat,2c3cdybt1eh270465,167477467,new york, usa,8 days left
+887,20999,dodge,doors,2014,clean vehicle,37082.0,silver,2c3cdybt9eh247614,167477468,new york, usa,8 days left
+888,22499,dodge,doors,2014,clean vehicle,23964.0,bright white clearcoat,2c3cdybt9eh143592,167477469,new jersey, usa,8 days left
+889,23495,dodge,doors,2014,clean vehicle,11204.0,black clearcoat,2c3cdyag1eh311262,167477470,new york, usa,8 days left
+890,25250,dodge,doors,2014,clean vehicle,7608.0,billet silver metallic clearcoat,2c3cdybt6eh111229,167477485,new york, usa,8 days left
+891,15322,dodge,doors,2014,clean vehicle,49982.0,billet silver metallic clearcoat,2c3cdyag3eh251064,167477486,new jersey, usa,8 days left
+892,21232,dodge,charger,2019,clean vehicle,4950.0,gray,2c3cdxbgxkh707467,167480295,texas, usa,4 days left
+893,5800,dodge,journey,2013,clean vehicle,111628.0,white,3c4pddfg9dt523590,167780745,wisconsin, usa,21 hours left
+894,29000,dodge,door,2012,clean vehicle,15927.0,black,2c3cdxej6ch170654,167780754,illinois, usa,21 hours left
+895,17000,dodge,caravan,2018,clean vehicle,36299.0,gray,2c4rdgeg5jr147562,167781292,new jersey, usa,2 days left
+896,13800,dodge,journey,2018,clean vehicle,28469.0,red,3c4pdcgg9jt352215,167491370,florida, usa,23 hours left
+897,30000,dodge,durango,2019,clean vehicle,29086.0,gray,1c4sdhct3kc769532,167492266,missouri, usa,8 days left
+898,14800,dodge,caravan,2017,clean vehicle,35991.0,gray,2c4rdgeg1hr716871,167493381,florida, usa,23 hours left
+899,8500,dodge,journey,2017,clean vehicle,62224.0,black,3c4pdcabxht695526,167494494,missouri, usa,7 days left
+900,9800,dodge,door,2013,clean vehicle,86500.0,white,1c4rdjdg3dc674852,167496123,missouri, usa,8 days left
+901,4200,dodge,door,2014,clean vehicle,144725.0,gray,2c3cdxbg3eh170784,167519895,nevada, usa,22 hours left
+902,2500,dodge,van,2013,salvage insurance,163260.0,red,2c4rdgbg8dr566594,167532547,tennessee, usa,15 hours left
+903,28700,dodge,charger,2018,clean vehicle,19636.0,blue,2c3cdxct8jh197730,167782326,california, usa,21 hours left
+904,18500,dodge,challenger,2018,clean vehicle,34272.0,gray,2c3cdzag4jh302832,167782327,california, usa,2 days left
+905,17300,dodge,challenger,2018,clean vehicle,42909.0,no_color,2c3cdzag3jh242672,167782329,california, usa,2 days left
+906,7100,dodge,door,2016,clean vehicle,55749.0,gray,3c4pdcab7gt103739,167541492,louisiana, usa,8 days left
+907,3250,dodge,door,2015,salvage insurance,89142.0,white,1c3cdfbb5fd213552,167547285,minnesota, usa,16 hours left
+908,30700,dodge,durango,2017,clean vehicle,20328.0,no_color,1c4sdhctxhc936557,167783117,california, usa,21 hours left
+909,3000,dodge,door,2012,clean vehicle,149332.0,gray,3c4pdcdg6ct146745,167552614,missouri, usa,9 days left
+910,26500,dodge,durango,2019,clean vehicle,28551.0,gray,1c4rdjdgxkc744523,167553403,california, usa,8 days left
+911,20800,dodge,charger,2019,clean vehicle,35098.0,gray,2c3cdxhgxkh527140,167553404,california, usa,8 days left
+912,20800,dodge,charger,2019,clean vehicle,35365.0,gray,2c3cdxjg8kh527857,167553409,california, usa,8 days left
+913,5100,dodge,door,2015,clean vehicle,88398.0,white,1c3cdfaa2fd144750,167783937,california, usa,2 days left
+914,18900,dodge,challenger,2019,clean vehicle,27957.0,black,2c3cdzggxkh532268,167553412,california, usa,8 days left
+915,24000,dodge,durango,2019,clean vehicle,30161.0,silver,1c4rdhdg3kc769255,167553418,california, usa,8 days left
+916,38800,dodge,challenger,2015,clean vehicle,26292.0,white,2c3cdzc90fh834388,167783956,california, usa,2 days left
+917,24500,dodge,durango,2019,clean vehicle,25780.0,white,1c4rdhdg1kc557017,167553420,california, usa,8 days left
+918,24500,dodge,durango,2019,clean vehicle,25032.0,black,1c4rdhdg3kc675893,167553423,california, usa,8 days left
+919,6500,dodge,door,2016,clean vehicle,72248.0,blue,1c3cdfbb8gd766472,167783975,new jersey, usa,2 days left
+920,24000,dodge,durango,2019,clean vehicle,30630.0,gray,1c4rdhdg7kc675959,167553491,california, usa,8 days left
+921,18000,dodge,door,2014,clean vehicle,86125.0,no_color,1c4rdjeg3ec591566,167783985,california, usa,21 hours left
+922,24000,dodge,durango,2019,clean vehicle,30408.0,white,1c4rdhdg6kc557000,167553506,california, usa,8 days left
+923,23500,dodge,durango,2019,clean vehicle,35443.0,silver,1c4rdhdg0kc557042,167553511,california, usa,8 days left
+924,4500,dodge,van,2014,clean vehicle,95377.0,white,2c4rdgcg9er400696,167783994,california, usa,2 days left
+925,25900,dodge,durango,2019,clean vehicle,32724.0,silver,1c4rdjdg6kc684983,167553512,california, usa,8 days left
+926,13900,dodge,caravan,2019,clean vehicle,45089.0,gray,2c4rdgcg3kr514530,167553571,california, usa,8 days left
+927,14200,dodge,journey,2019,clean vehicle,35948.0,silver,3c4pdcgg4kt707549,167553584,california, usa,8 days left
+928,15400,dodge,caravan,2019,clean vehicle,41601.0,blue,2c4rdgeg5kr563175,167553585,california, usa,8 days left
+929,17500,dodge,challenger,2019,clean vehicle,26370.0,gray,2c3cdzagxkh583746,167785326,texas, usa,1 days left
+930,17500,dodge,caravan,2019,clean vehicle,18271.0,white,2c4rdgcg1kr761805,167785571,texas, usa,2 days left
+931,18000,dodge,caravan,2019,clean vehicle,9476.0,white,2c4rdgcg3kr753690,167785577,texas, usa,1 days left
+932,25200,dodge,door,2012,clean vehicle,80899.0,gray,3c6ud5dl9cg338415,167786130,new jersey, usa,2 days left
+933,14100,dodge,caravan,2018,clean vehicle,57394.0,black,2c4rdgeg5jr337118,167786903,texas, usa,2 days left
+934,13300,dodge,caravan,2018,clean vehicle,42190.0,white,2c4rdgcg3jr364854,167555073,california, usa,8 days left
+935,16200,dodge,caravan,2019,clean vehicle,22591.0,black,2c4rdgbgxkr624069,167787079,oklahoma, usa,21 hours left
+936,13300,dodge,caravan,2018,clean vehicle,48681.0,gray,2c4rdgegxjr331914,167555075,california, usa,8 days left
+937,13100,dodge,caravan,2018,clean vehicle,42621.0,silver,2c4rdgcg0jr241626,167555080,california, usa,8 days left
+938,15500,dodge,caravan,2017,clean vehicle,27761.0,silver,2c4rdgeg9hr852858,167556225,california, usa,8 days left
+939,4500,dodge,door,2013,salvage insurance,107768.0,white,2c3cdyag9dh607919,167559924,california, usa,18 hours left
+940,28400,dodge,durango,2019,clean vehicle,14355.0,gray,1c4rdjdg7kc780041,167565682,colorado, usa,3 days left
+941,17400,dodge,caravan,2019,clean vehicle,9467.0,gray,2c4rdgcgxkr747353,167565747,colorado, usa,3 days left
+942,6000,dodge,door,2014,clean vehicle,122837.0,silver,2c3cdxbg1eh268115,167568295,florida, usa,53 minutes
+943,20700,dodge,challenger,2019,clean vehicle,18313.0,gray,2c3cdzag9kh642088,167570322,virginia, usa,2 days left
+944,20300,dodge,challenger,2019,clean vehicle,19506.0,black,2c3cdzag1kh656275,167570325,virginia, usa,2 days left
+945,14000,dodge,journey,2018,clean vehicle,14750.0,black,3c4pdcbb1jt319818,167787973,oklahoma, usa,21 hours left
+946,22000,dodge,challenger,2019,clean vehicle,11280.0,green,2c3cdzgg5kh709017,167570337,virginia, usa,2 days left
+947,17200,dodge,journey,2019,clean vehicle,13944.0,blue,3c4pdcgg2kt803633,167570512,virginia, usa,2 days left
