@@ -1,7 +1,3 @@
-# project: p4
-# submitter: cchen659
-# partner: none
-# hours: 12
 # data source(usa-used-cars-dataset): https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
 
 import re
